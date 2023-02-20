@@ -1,0 +1,5044 @@
+{
+  "name": "a",
+  "languageCode": "he",
+  "login_time": "2023-02-18 22:03:25",
+  "logout_time": "",
+  "counter": 0,
+  "rank": {
+    "1": [
+      [
+        "Y",
+        "0"
+      ],
+      [
+        "N",
+        "0"
+      ],
+      [
+        "response_time",
+        "2023-02-18 22:03:36"
+      ]
+    ],
+    "2": [
+      [
+        "Y",
+        "0"
+      ],
+      [
+        "N",
+        "0"
+      ],
+      [
+        "response_time",
+        "2023-02-18 22:03:40"
+      ]
+    ]
+  },
+  "word_dict": {
+    "languageCode": "he",
+    "languageName": "Hebrew",
+    "languageNativeName": "\u05e2\u05d1\u05e8\u05d9\u05ea",
+    "words": [
+      {
+        "rank": 1,
+        "targetWord": "\u05db\u05de\u05d5",
+        "englishWord": "as"
+      },
+      {
+        "rank": 2,
+        "targetWord": "\u05d0\u05e0\u05d9",
+        "englishWord": "I"
+      },
+      {
+        "rank": 3,
+        "targetWord": "\u05e9\u05dc\u05d5",
+        "englishWord": "his"
+      },
+      {
+        "rank": 4,
+        "targetWord": "\u05e9",
+        "englishWord": "that"
+      },
+      {
+        "rank": 5,
+        "targetWord": "\u05d4\u05d5\u05d0",
+        "englishWord": "he"
+      },
+      {
+        "rank": 6,
+        "targetWord": "\u05d4\u05d9\u05d4",
+        "englishWord": "was"
+      },
+      {
+        "rank": 7,
+        "targetWord": "\u05e2\u05d1\u05d5\u05e8",
+        "englishWord": "for"
+      },
+      {
+        "rank": 8,
+        "targetWord": "\u05e2\u05dc",
+        "englishWord": "on"
+      },
+      {
+        "rank": 9,
+        "targetWord": "\u05d4\u05dd",
+        "englishWord": "are"
+      },
+      {
+        "rank": 10,
+        "targetWord": "\u05e2\u05dd",
+        "englishWord": "with"
+      },
+      {
+        "rank": 11,
+        "targetWord": "\u05d4\u05dd",
+        "englishWord": "they"
+      },
+      {
+        "rank": 12,
+        "targetWord": "\u05dc\u05d4\u05d9\u05d5\u05ea",
+        "englishWord": "be"
+      },
+      {
+        "rank": 13,
+        "targetWord": "\u05d1",
+        "englishWord": "at"
+      },
+      {
+        "rank": 14,
+        "targetWord": "\u05d0\u05d7\u05d3",
+        "englishWord": "one"
+      },
+      {
+        "rank": 15,
+        "targetWord": "\u05d9\u05e9 \u05dc\u05d9",
+        "englishWord": "have"
+      },
+      {
+        "rank": 16,
+        "targetWord": "\u05d6\u05d4",
+        "englishWord": "this"
+      },
+      {
+        "rank": 17,
+        "targetWord": "\u05de",
+        "englishWord": "from"
+      },
+      {
+        "rank": 18,
+        "targetWord": "\u05e2\u05dc \u05d9\u05d3\u05d9",
+        "englishWord": "by"
+      },
+      {
+        "rank": 19,
+        "targetWord": "\u05d7\u05dd",
+        "englishWord": "hot"
+      },
+      {
+        "rank": 20,
+        "targetWord": "\u05de\u05d9\u05dc\u05d4",
+        "englishWord": "word"
+      },
+      {
+        "rank": 21,
+        "targetWord": "\u05d0\u05d1\u05dc",
+        "englishWord": "but"
+      },
+      {
+        "rank": 22,
+        "targetWord": "\u05de\u05d4",
+        "englishWord": "what"
+      },
+      {
+        "rank": 23,
+        "targetWord": "\u05db\u05de\u05d4",
+        "englishWord": "some"
+      },
+      {
+        "rank": 24,
+        "targetWord": "\u05d4\u05d5\u05d0",
+        "englishWord": "is"
+      },
+      {
+        "rank": 25,
+        "targetWord": "\u05d6\u05d4",
+        "englishWord": "it"
+      },
+      {
+        "rank": 26,
+        "targetWord": "\u05d0\u05ea\u05d4",
+        "englishWord": "you"
+      },
+      {
+        "rank": 27,
+        "targetWord": "\u05d0\u05d5",
+        "englishWord": "or"
+      },
+      {
+        "rank": 28,
+        "targetWord": "\u05d4\u05d9\u05d4 \u05dc\u05d9",
+        "englishWord": "had"
+      },
+      {
+        "rank": 29,
+        "targetWord": "\u05e2\u05d1\u05d5\u05e8",
+        "englishWord": "the"
+      },
+      {
+        "rank": 30,
+        "targetWord": "\u05e9\u05dc",
+        "englishWord": "of"
+      },
+      {
+        "rank": 31,
+        "targetWord": "\u05d0\u05dc",
+        "englishWord": "to"
+      },
+      {
+        "rank": 32,
+        "targetWord": "\u05d5",
+        "englishWord": "and"
+      },
+      {
+        "rank": 33,
+        "targetWord": "\u05d6\u05de\u05df",
+        "englishWord": "a"
+      },
+      {
+        "rank": 34,
+        "targetWord": "\u05d1",
+        "englishWord": "in"
+      },
+      {
+        "rank": 35,
+        "targetWord": "\u05d0\u05e0\u05d7\u05e0\u05d5",
+        "englishWord": "we"
+      },
+      {
+        "rank": 36,
+        "targetWord": "\u05d9\u05db\u05d5\u05dc",
+        "englishWord": "can"
+      },
+      {
+        "rank": 37,
+        "targetWord": "\u05d0\u05ea",
+        "englishWord": "out"
+      },
+      {
+        "rank": 38,
+        "targetWord": "\u05d0\u05d7\u05e8",
+        "englishWord": "other"
+      },
+      {
+        "rank": 39,
+        "targetWord": "\u05d4\u05d9\u05d5",
+        "englishWord": "were"
+      },
+      {
+        "rank": 40,
+        "targetWord": "\u05e9",
+        "englishWord": "which"
+      },
+      {
+        "rank": 41,
+        "targetWord": "\u05dc\u05e2\u05e9\u05d5\u05ea",
+        "englishWord": "do"
+      },
+      {
+        "rank": 42,
+        "targetWord": "\u05e9\u05dc\u05d4\u05dd",
+        "englishWord": "their"
+      },
+      {
+        "rank": 43,
+        "targetWord": "\u05d6\u05de\u05df",
+        "englishWord": "time"
+      },
+      {
+        "rank": 44,
+        "targetWord": "\u05d0\u05dd",
+        "englishWord": "if"
+      },
+      {
+        "rank": 45,
+        "targetWord": "\u05d9\u05d4\u05d9\u05d4",
+        "englishWord": "will"
+      },
+      {
+        "rank": 46,
+        "targetWord": "\u05d0\u05d9\u05da",
+        "englishWord": "how"
+      },
+      {
+        "rank": 47,
+        "targetWord": "\u05d0\u05de\u05e8",
+        "englishWord": "said"
+      },
+      {
+        "rank": 48,
+        "targetWord": "\u05d1\u05d9\u05ea",
+        "englishWord": "an"
+      },
+      {
+        "rank": 49,
+        "targetWord": "\u05db\u05dc",
+        "englishWord": "each"
+      },
+      {
+        "rank": 50,
+        "targetWord": "\u05dc\u05e1\u05e4\u05e8",
+        "englishWord": "tell"
+      },
+      {
+        "rank": 51,
+        "targetWord": "\u05e2\u05d5\u05e9\u05d4",
+        "englishWord": "does"
+      },
+      {
+        "rank": 52,
+        "targetWord": "\u05e1\u05d8",
+        "englishWord": "set"
+      },
+      {
+        "rank": 53,
+        "targetWord": "\u05e9\u05dc\u05d5\u05e9",
+        "englishWord": "three"
+      },
+      {
+        "rank": 54,
+        "targetWord": "\u05e8\u05d5\u05e6\u05d4",
+        "englishWord": "want"
+      },
+      {
+        "rank": 55,
+        "targetWord": "\u05d0\u05d5\u05d5\u05d9\u05e8",
+        "englishWord": "air"
+      },
+      {
+        "rank": 56,
+        "targetWord": "\u05d2\u05dd",
+        "englishWord": "well"
+      },
+      {
+        "rank": 57,
+        "targetWord": "\u05d2\u05dd",
+        "englishWord": "also"
+      },
+      {
+        "rank": 58,
+        "targetWord": "\u05dc\u05e9\u05d7\u05e7",
+        "englishWord": "play"
+      },
+      {
+        "rank": 59,
+        "targetWord": "\u05e7\u05d8\u05df",
+        "englishWord": "small"
+      },
+      {
+        "rank": 60,
+        "targetWord": "\u05e1\u05d5\u05e3",
+        "englishWord": "end"
+      },
+      {
+        "rank": 61,
+        "targetWord": "\u05dc\u05e9\u05d9\u05dd",
+        "englishWord": "put"
+      },
+      {
+        "rank": 62,
+        "targetWord": "\u05d1\u05d9\u05ea",
+        "englishWord": "home"
+      },
+      {
+        "rank": 63,
+        "targetWord": "\u05dc\u05e7\u05e8\u05d5\u05d0",
+        "englishWord": "read"
+      },
+      {
+        "rank": 64,
+        "targetWord": "\u05d9\u05d3",
+        "englishWord": "hand"
+      },
+      {
+        "rank": 65,
+        "targetWord": "\u05e0\u05de\u05dc",
+        "englishWord": "port"
+      },
+      {
+        "rank": 66,
+        "targetWord": "\u05d2\u05d3\u05d5\u05dc",
+        "englishWord": "large"
+      },
+      {
+        "rank": 67,
+        "targetWord": "\u05dc\u05d0\u05d9\u05d9\u05ea",
+        "englishWord": "spell"
+      },
+      {
+        "rank": 68,
+        "targetWord": "\u05dc\u05d4\u05d5\u05e1\u05d9\u05e3",
+        "englishWord": "add"
+      },
+      {
+        "rank": 69,
+        "targetWord": "\u05d0\u05e4\u05d9\u05dc\u05d5",
+        "englishWord": "even"
+      },
+      {
+        "rank": 70,
+        "targetWord": "\u05d0\u05e8\u05e5",
+        "englishWord": "land"
+      },
+      {
+        "rank": 71,
+        "targetWord": "\u05db\u05d0\u05df",
+        "englishWord": "here"
+      },
+      {
+        "rank": 72,
+        "targetWord": "\u05d7\u05d9\u05d9\u05d1",
+        "englishWord": "must"
+      },
+      {
+        "rank": 73,
+        "targetWord": "\u05d2\u05d3\u05d5\u05dc",
+        "englishWord": "big"
+      },
+      {
+        "rank": 74,
+        "targetWord": "\u05d2\u05d1\u05d5\u05d4",
+        "englishWord": "high"
+      },
+      {
+        "rank": 75,
+        "targetWord": "\u05db\u05d6\u05d4",
+        "englishWord": "such"
+      },
+      {
+        "rank": 76,
+        "targetWord": "\u05de\u05e2\u05e7\u05d1",
+        "englishWord": "follow"
+      },
+      {
+        "rank": 77,
+        "targetWord": "\u05de\u05e2\u05e9\u05d4",
+        "englishWord": "act"
+      },
+      {
+        "rank": 78,
+        "targetWord": "\u05de\u05d3\u05d5\u05e2",
+        "englishWord": "why"
+      },
+      {
+        "rank": 79,
+        "targetWord": "\u05e9\u05d5\u05d0\u05dc",
+        "englishWord": "ask"
+      },
+      {
+        "rank": 80,
+        "targetWord": "\u05d0\u05e0\u05e9\u05d9\u05dd",
+        "englishWord": "men"
+      },
+      {
+        "rank": 81,
+        "targetWord": "\u05dc\u05e9\u05e0\u05d5\u05ea",
+        "englishWord": "change"
+      },
+      {
+        "rank": 82,
+        "targetWord": "\u05d4\u05dc\u05db\u05ea\u05d9",
+        "englishWord": "went"
+      },
+      {
+        "rank": 83,
+        "targetWord": "\u05d0\u05d5\u05e8",
+        "englishWord": "light"
+      },
+      {
+        "rank": 84,
+        "targetWord": "\u05e1\u05d5\u05d2",
+        "englishWord": "kind"
+      },
+      {
+        "rank": 85,
+        "targetWord": "\u05d0\u05ea",
+        "englishWord": "off"
+      },
+      {
+        "rank": 86,
+        "targetWord": "\u05e6\u05e8\u05d9\u05da",
+        "englishWord": "need"
+      },
+      {
+        "rank": 87,
+        "targetWord": "\u05d1\u05d9\u05ea",
+        "englishWord": "house"
+      },
+      {
+        "rank": 88,
+        "targetWord": "\u05ea\u05de\u05d5\u05e0\u05d4",
+        "englishWord": "picture"
+      },
+      {
+        "rank": 89,
+        "targetWord": "\u05dc\u05e0\u05e1\u05d5\u05ea",
+        "englishWord": "try"
+      },
+      {
+        "rank": 90,
+        "targetWord": "\u05e9\u05dc\u05e0\u05d5",
+        "englishWord": "us"
+      },
+      {
+        "rank": 91,
+        "targetWord": "\u05e9\u05d5\u05d1",
+        "englishWord": "again"
+      },
+      {
+        "rank": 92,
+        "targetWord": "\u05d7\u05d9\u05d4",
+        "englishWord": "animal"
+      },
+      {
+        "rank": 93,
+        "targetWord": "\u05e0\u05e7\u05d5\u05d3\u05d4",
+        "englishWord": "point"
+      },
+      {
+        "rank": 94,
+        "targetWord": "\u05d0\u05de\u05d0",
+        "englishWord": "mother"
+      },
+      {
+        "rank": 95,
+        "targetWord": "\u05e2\u05d5\u05dc\u05dd",
+        "englishWord": "world"
+      },
+      {
+        "rank": 96,
+        "targetWord": "\u05dc\u05d9\u05d3",
+        "englishWord": "near"
+      },
+      {
+        "rank": 97,
+        "targetWord": "\u05dc\u05d1\u05e0\u05d5\u05ea",
+        "englishWord": "build"
+      },
+      {
+        "rank": 98,
+        "targetWord": "\u05e2\u05e6\u05de\u05d9",
+        "englishWord": "self"
+      },
+      {
+        "rank": 99,
+        "targetWord": "\u05db\u05d3\u05d5\u05e8 \u05d4\u05d0\u05e8\u05e5",
+        "englishWord": "earth"
+      },
+      {
+        "rank": 100,
+        "targetWord": "\u05d0\u05d1",
+        "englishWord": "father"
+      },
+      {
+        "rank": 101,
+        "targetWord": "\u05db\u05dc",
+        "englishWord": "any"
+      },
+      {
+        "rank": 102,
+        "targetWord": "\u05d7\u05d3\u05e9",
+        "englishWord": "new"
+      },
+      {
+        "rank": 103,
+        "targetWord": "\u05e2\u05d1\u05d5\u05d3\u05d4",
+        "englishWord": "work"
+      },
+      {
+        "rank": 104,
+        "targetWord": "\u05d7\u05dc\u05e7",
+        "englishWord": "part"
+      },
+      {
+        "rank": 105,
+        "targetWord": "\u05dc\u05e7\u05d7\u05ea",
+        "englishWord": "take"
+      },
+      {
+        "rank": 106,
+        "targetWord": "\u05dc\u05e7\u05d1\u05dc",
+        "englishWord": "get"
+      },
+      {
+        "rank": 107,
+        "targetWord": "\u05de\u05e7\u05d5\u05dd",
+        "englishWord": "place"
+      },
+      {
+        "rank": 108,
+        "targetWord": "\u05e2\u05e9\u05d9\u05ea\u05d9",
+        "englishWord": "made"
+      },
+      {
+        "rank": 109,
+        "targetWord": "\u05dc\u05d7\u05d9\u05d5\u05ea",
+        "englishWord": "live"
+      },
+      {
+        "rank": 110,
+        "targetWord": "\u05d0\u05d9\u05e4\u05d4",
+        "englishWord": "where"
+      },
+      {
+        "rank": 111,
+        "targetWord": "\u05dc\u05d0\u05d7\u05e8",
+        "englishWord": "after"
+      },
+      {
+        "rank": 112,
+        "targetWord": "\u05d1\u05d7\u05d6\u05e8\u05d4",
+        "englishWord": "back"
+      },
+      {
+        "rank": 113,
+        "targetWord": "\u05e7\u05d8\u05df",
+        "englishWord": "little"
+      },
+      {
+        "rank": 114,
+        "targetWord": "\u05e8\u05e7",
+        "englishWord": "only"
+      },
+      {
+        "rank": 115,
+        "targetWord": "\u05e2\u05d2\u05d5\u05dc",
+        "englishWord": "round"
+      },
+      {
+        "rank": 116,
+        "targetWord": "\u05d2\u05d1\u05e8",
+        "englishWord": "man"
+      },
+      {
+        "rank": 117,
+        "targetWord": "\u05e9\u05e0\u05d4",
+        "englishWord": "year"
+      },
+      {
+        "rank": 118,
+        "targetWord": "\u05d4\u05d2\u05d9\u05e2",
+        "englishWord": "came"
+      },
+      {
+        "rank": 119,
+        "targetWord": "\u05de\u05d5\u05e4\u05e2",
+        "englishWord": "show"
+      },
+      {
+        "rank": 120,
+        "targetWord": "\u05db\u05dc",
+        "englishWord": "every"
+      },
+      {
+        "rank": 121,
+        "targetWord": "\u05d8\u05d5\u05d1",
+        "englishWord": "good"
+      },
+      {
+        "rank": 122,
+        "targetWord": "\u05dc\u05d9",
+        "englishWord": "me"
+      },
+      {
+        "rank": 123,
+        "targetWord": "\u05dc\u05ea\u05ea",
+        "englishWord": "give"
+      },
+      {
+        "rank": 124,
+        "targetWord": "\u05e9\u05dc\u05e0\u05d5",
+        "englishWord": "our"
+      },
+      {
+        "rank": 125,
+        "targetWord": "\u05ea\u05d7\u05ea",
+        "englishWord": "under"
+      },
+      {
+        "rank": 126,
+        "targetWord": "\u05e9\u05dd",
+        "englishWord": "name"
+      },
+      {
+        "rank": 127,
+        "targetWord": "\u05de\u05d0\u05d5\u05d3",
+        "englishWord": "very"
+      },
+      {
+        "rank": 128,
+        "targetWord": "\u05d3\u05e8\u05da",
+        "englishWord": "through"
+      },
+      {
+        "rank": 129,
+        "targetWord": "\u05e8\u05e7",
+        "englishWord": "just"
+      },
+      {
+        "rank": 130,
+        "targetWord": "\u05d8\u05d5\u05e4\u05e1",
+        "englishWord": "form"
+      },
+      {
+        "rank": 131,
+        "targetWord": "\u05de\u05e9\u05e4\u05d8",
+        "englishWord": "sentence"
+      },
+      {
+        "rank": 132,
+        "targetWord": "\u05d2\u05d3\u05d5\u05dc",
+        "englishWord": "great"
+      },
+      {
+        "rank": 133,
+        "targetWord": "\u05d7\u05d5\u05e9\u05d1",
+        "englishWord": "think"
+      },
+      {
+        "rank": 134,
+        "targetWord": "\u05d0\u05d5\u05de\u05e8",
+        "englishWord": "say"
+      },
+      {
+        "rank": 135,
+        "targetWord": "\u05dc\u05e2\u05d6\u05d5\u05e8",
+        "englishWord": "help"
+      },
+      {
+        "rank": 136,
+        "targetWord": "\u05e0\u05de\u05d5\u05da",
+        "englishWord": "low"
+      },
+      {
+        "rank": 137,
+        "targetWord": "\u05e9\u05d5\u05e8\u05d4",
+        "englishWord": "line"
+      },
+      {
+        "rank": 138,
+        "targetWord": "\u05e9\u05d5\u05e0\u05d4",
+        "englishWord": "differ"
+      },
+      {
+        "rank": 139,
+        "targetWord": "\u05ea\u05d5\u05e8",
+        "englishWord": "turn"
+      },
+      {
+        "rank": 140,
+        "targetWord": "\u05e1\u05d9\u05d1\u05d4",
+        "englishWord": "cause"
+      },
+      {
+        "rank": 141,
+        "targetWord": "\u05d4\u05e8\u05d1\u05d4",
+        "englishWord": "much"
+      },
+      {
+        "rank": 142,
+        "targetWord": "\u05d0\u05d5\u05de\u05e8",
+        "englishWord": "mean"
+      },
+      {
+        "rank": 143,
+        "targetWord": "\u05dc\u05e4\u05e0\u05d9",
+        "englishWord": "before"
+      },
+      {
+        "rank": 144,
+        "targetWord": "\u05de\u05d4\u05dc\u05da",
+        "englishWord": "move"
+      },
+      {
+        "rank": 145,
+        "targetWord": "\u05e0\u05db\u05d5\u05df",
+        "englishWord": "right"
+      },
+      {
+        "rank": 146,
+        "targetWord": "\u05d9\u05dc\u05d3",
+        "englishWord": "boy"
+      },
+      {
+        "rank": 147,
+        "targetWord": "\u05d9\u05e9\u05df",
+        "englishWord": "old"
+      },
+      {
+        "rank": 148,
+        "targetWord": "\u05d2\u05dd",
+        "englishWord": "too"
+      },
+      {
+        "rank": 149,
+        "targetWord": "\u05d0\u05d5\u05ea\u05d5",
+        "englishWord": "same"
+      },
+      {
+        "rank": 150,
+        "targetWord": "\u05d4\u05d9\u05d0",
+        "englishWord": "she"
+      },
+      {
+        "rank": 151,
+        "targetWord": "\u05db\u05dc",
+        "englishWord": "all"
+      },
+      {
+        "rank": 152,
+        "targetWord": "\u05e9\u05dd",
+        "englishWord": "there"
+      },
+      {
+        "rank": 153,
+        "targetWord": "\u05db\u05d0\u05e9\u05e8",
+        "englishWord": "when"
+      },
+      {
+        "rank": 154,
+        "targetWord": "\u05dc\u05de\u05e2\u05dc\u05d4",
+        "englishWord": "up"
+      },
+      {
+        "rank": 155,
+        "targetWord": "\u05e9\u05d9\u05de\u05d5\u05e9",
+        "englishWord": "use"
+      },
+      {
+        "rank": 156,
+        "targetWord": "\u05e9\u05dc\u05da",
+        "englishWord": "your"
+      },
+      {
+        "rank": 157,
+        "targetWord": "\u05d3\u05e8\u05da",
+        "englishWord": "way"
+      },
+      {
+        "rank": 158,
+        "targetWord": "\u05e2\u05dc",
+        "englishWord": "about"
+      },
+      {
+        "rank": 159,
+        "targetWord": "\u05e8\u05d1\u05d9\u05dd",
+        "englishWord": "many"
+      },
+      {
+        "rank": 160,
+        "targetWord": "\u05d0\u05d6",
+        "englishWord": "then"
+      },
+      {
+        "rank": 161,
+        "targetWord": "\u05e9\u05dc\u05d4\u05dd",
+        "englishWord": "them"
+      },
+      {
+        "rank": 162,
+        "targetWord": "\u05dc\u05db\u05ea\u05d5\u05d1",
+        "englishWord": "write"
+      },
+      {
+        "rank": 163,
+        "targetWord": "\u05d4\u05d9\u05d9\u05ea",
+        "englishWord": "would"
+      },
+      {
+        "rank": 164,
+        "targetWord": "\u05db\u05de\u05d5",
+        "englishWord": "like"
+      },
+      {
+        "rank": 165,
+        "targetWord": "\u05db\u05da",
+        "englishWord": "so"
+      },
+      {
+        "rank": 166,
+        "targetWord": "\u05d0\u05dc\u05d4",
+        "englishWord": "these"
+      },
+      {
+        "rank": 167,
+        "targetWord": "\u05e9\u05dc\u05d4",
+        "englishWord": "her"
+      },
+      {
+        "rank": 168,
+        "targetWord": "\u05d0\u05e8\u05d5\u05da",
+        "englishWord": "long"
+      },
+      {
+        "rank": 169,
+        "targetWord": "\u05dc\u05e2\u05e9\u05d5\u05ea",
+        "englishWord": "make"
+      },
+      {
+        "rank": 170,
+        "targetWord": "\u05d3\u05d1\u05e8",
+        "englishWord": "thing"
+      },
+      {
+        "rank": 171,
+        "targetWord": "\u05dc\u05e8\u05d0\u05d5\u05ea",
+        "englishWord": "see"
+      },
+      {
+        "rank": 172,
+        "targetWord": "\u05e9\u05dc\u05d5",
+        "englishWord": "him"
+      },
+      {
+        "rank": 173,
+        "targetWord": "\u05e9\u05e0\u05d9\u05dd",
+        "englishWord": "two"
+      },
+      {
+        "rank": 174,
+        "targetWord": "\u05d9\u05e9",
+        "englishWord": "has"
+      },
+      {
+        "rank": 175,
+        "targetWord": "\u05dc\u05d4\u05e1\u05ea\u05db\u05dc",
+        "englishWord": "look"
+      },
+      {
+        "rank": 176,
+        "targetWord": "\u05d9\u05d5\u05ea\u05e8",
+        "englishWord": "more"
+      },
+      {
+        "rank": 177,
+        "targetWord": "\u05d9\u05d5\u05dd",
+        "englishWord": "day"
+      },
+      {
+        "rank": 178,
+        "targetWord": "\u05d9\u05db\u05d5\u05dc",
+        "englishWord": "could"
+      },
+      {
+        "rank": 179,
+        "targetWord": "\u05dc\u05dc\u05db\u05ea",
+        "englishWord": "go"
+      },
+      {
+        "rank": 180,
+        "targetWord": "\u05ea\u05d1\u05d5\u05d0\u05d5",
+        "englishWord": "come"
+      },
+      {
+        "rank": 181,
+        "targetWord": "\u05e2\u05e9\u05d9\u05ea\u05d9",
+        "englishWord": "did"
+      },
+      {
+        "rank": 182,
+        "targetWord": "\u05de\u05e1\u05e4\u05e8",
+        "englishWord": "number"
+      },
+      {
+        "rank": 183,
+        "targetWord": "\u05e0\u05e9\u05de\u05e2",
+        "englishWord": "sound"
+      },
+      {
+        "rank": 184,
+        "targetWord": "\u05dc\u05d0",
+        "englishWord": "no"
+      },
+      {
+        "rank": 185,
+        "targetWord": "\u05d1\u05d9\u05d5\u05ea\u05e8",
+        "englishWord": "most"
+      },
+      {
+        "rank": 186,
+        "targetWord": "\u05d0\u05e0\u05e9\u05d9\u05dd",
+        "englishWord": "people"
+      },
+      {
+        "rank": 187,
+        "targetWord": "\u05e9\u05dc\u05d9",
+        "englishWord": "my"
+      },
+      {
+        "rank": 188,
+        "targetWord": "\u05e2\u05dc",
+        "englishWord": "over"
+      },
+      {
+        "rank": 189,
+        "targetWord": "\u05d9\u05d5\u05d3\u05e2",
+        "englishWord": "know"
+      },
+      {
+        "rank": 190,
+        "targetWord": "\u05de\u05d9\u05dd",
+        "englishWord": "water"
+      },
+      {
+        "rank": 191,
+        "targetWord": "\u05de\u05d0\u05e9\u05e8",
+        "englishWord": "than"
+      },
+      {
+        "rank": 192,
+        "targetWord": "\u05e9\u05d9\u05d7\u05d4",
+        "englishWord": "call"
+      },
+      {
+        "rank": 193,
+        "targetWord": "\u05e8\u05d0\u05e9\u05d5\u05df",
+        "englishWord": "first"
+      },
+      {
+        "rank": 194,
+        "targetWord": "\u05de\u05d9",
+        "englishWord": "who"
+      },
+      {
+        "rank": 195,
+        "targetWord": "\u05e8\u05e9\u05d0\u05d9",
+        "englishWord": "may"
+      },
+      {
+        "rank": 196,
+        "targetWord": "\u05dc\u05de\u05d8\u05d4",
+        "englishWord": "down"
+      },
+      {
+        "rank": 197,
+        "targetWord": "\u05e6\u05d3",
+        "englishWord": "side"
+      },
+      {
+        "rank": 198,
+        "targetWord": "\u05d4\u05d9\u05d4",
+        "englishWord": "been"
+      },
+      {
+        "rank": 199,
+        "targetWord": "\u05e2\u05db\u05e9\u05d9\u05d5",
+        "englishWord": "now"
+      },
+      {
+        "rank": 200,
+        "targetWord": "\u05dc\u05de\u05e6\u05d5\u05d0",
+        "englishWord": "find"
+      },
+      {
+        "rank": 201,
+        "targetWord": "\u05e8\u05d0\u05e9",
+        "englishWord": "head"
+      },
+      {
+        "rank": 202,
+        "targetWord": "\u05dc\u05e2\u05de\u05d5\u05d3",
+        "englishWord": "stand"
+      },
+      {
+        "rank": 203,
+        "targetWord": "\u05e9\u05dc",
+        "englishWord": "own"
+      },
+      {
+        "rank": 204,
+        "targetWord": "\u05d3\u05e3",
+        "englishWord": "page"
+      },
+      {
+        "rank": 205,
+        "targetWord": "\u05e6\u05e8\u05d9\u05da",
+        "englishWord": "should"
+      },
+      {
+        "rank": 206,
+        "targetWord": "\u05de\u05d3\u05d9\u05e0\u05d4",
+        "englishWord": "country"
+      },
+      {
+        "rank": 207,
+        "targetWord": "\u05de\u05e6\u05d0\u05ea\u05d9",
+        "englishWord": "found"
+      },
+      {
+        "rank": 208,
+        "targetWord": "\u05ea\u05e9\u05d5\u05d1\u05d4",
+        "englishWord": "answer"
+      },
+      {
+        "rank": 209,
+        "targetWord": "\u05d1\u05d9\u05ea \u05e1\u05e4\u05e8",
+        "englishWord": "school"
+      },
+      {
+        "rank": 210,
+        "targetWord": "\u05dc\u05d2\u05d3\u05d5\u05dc",
+        "englishWord": "grow"
+      },
+      {
+        "rank": 211,
+        "targetWord": "\u05de\u05d7\u05e7\u05e8",
+        "englishWord": "study"
+      },
+      {
+        "rank": 212,
+        "targetWord": "\u05e2\u05d5\u05d3",
+        "englishWord": "still"
+      },
+      {
+        "rank": 213,
+        "targetWord": "\u05dc\u05dc\u05de\u05d5\u05d3",
+        "englishWord": "learn"
+      },
+      {
+        "rank": 214,
+        "targetWord": "\u05e6\u05de\u05d7",
+        "englishWord": "plant"
+      },
+      {
+        "rank": 215,
+        "targetWord": "\u05db\u05d9\u05e1\u05d5\u05d9",
+        "englishWord": "cover"
+      },
+      {
+        "rank": 216,
+        "targetWord": "\u05de\u05d6\u05d5\u05df",
+        "englishWord": "food"
+      },
+      {
+        "rank": 217,
+        "targetWord": "\u05e9\u05de\u05e9",
+        "englishWord": "sun"
+      },
+      {
+        "rank": 218,
+        "targetWord": "\u05d0\u05e8\u05d1\u05e2\u05d4",
+        "englishWord": "four"
+      },
+      {
+        "rank": 219,
+        "targetWord": "\u05d1\u05d9\u05df",
+        "englishWord": "between"
+      },
+      {
+        "rank": 220,
+        "targetWord": "\u05de\u05d3\u05d9\u05e0\u05d4",
+        "englishWord": "state"
+      },
+      {
+        "rank": 221,
+        "targetWord": "\u05dc\u05e9\u05de\u05d5\u05e8",
+        "englishWord": "keep"
+      },
+      {
+        "rank": 222,
+        "targetWord": "\u05e2\u05d9\u05df",
+        "englishWord": "eye"
+      },
+      {
+        "rank": 223,
+        "targetWord": "\u05d0\u05e3 \u05e4\u05e2\u05dd \u05dc\u05d0",
+        "englishWord": "never"
+      },
+      {
+        "rank": 224,
+        "targetWord": "\u05d0\u05d7\u05e8\u05d5\u05df",
+        "englishWord": "last"
+      },
+      {
+        "rank": 225,
+        "targetWord": "\u05d1\u05d5\u05d0\u05d5",
+        "englishWord": "let"
+      },
+      {
+        "rank": 226,
+        "targetWord": "\u05d7\u05e9\u05d1\u05ea\u05d9",
+        "englishWord": "thought"
+      },
+      {
+        "rank": 227,
+        "targetWord": "\u05e2\u05d9\u05e8",
+        "englishWord": "city"
+      },
+      {
+        "rank": 228,
+        "targetWord": "\u05e2\u05e5",
+        "englishWord": "tree"
+      },
+      {
+        "rank": 229,
+        "targetWord": "\u05dc\u05d7\u05e6\u05d5\u05ea",
+        "englishWord": "cross"
+      },
+      {
+        "rank": 230,
+        "targetWord": "\u05d4\u05d7\u05d5\u05d5\u05d4",
+        "englishWord": "farm"
+      },
+      {
+        "rank": 231,
+        "targetWord": "\u05e7\u05e9\u05d4",
+        "englishWord": "hard"
+      },
+      {
+        "rank": 232,
+        "targetWord": "\u05d4\u05ea\u05d7\u05dc\u05d4",
+        "englishWord": "start"
+      },
+      {
+        "rank": 233,
+        "targetWord": "\u05d0\u05d5\u05dc\u05d9",
+        "englishWord": "might"
+      },
+      {
+        "rank": 234,
+        "targetWord": "\u05e1\u05d9\u05e4\u05d5\u05e8",
+        "englishWord": "story"
+      },
+      {
+        "rank": 235,
+        "targetWord": "\u05de\u05e1\u05d5\u05e8",
+        "englishWord": "saw"
+      },
+      {
+        "rank": 236,
+        "targetWord": "\u05e8\u05d7\u05d5\u05e7",
+        "englishWord": "far"
+      },
+      {
+        "rank": 237,
+        "targetWord": "\u05d9\u05dd",
+        "englishWord": "sea"
+      },
+      {
+        "rank": 238,
+        "targetWord": "\u05dc\u05e6\u05d9\u05d9\u05e8",
+        "englishWord": "draw"
+      },
+      {
+        "rank": 239,
+        "targetWord": "\u05e2\u05d6\u05d1",
+        "englishWord": "left"
+      },
+      {
+        "rank": 240,
+        "targetWord": "\u05de\u05d0\u05d5\u05d7\u05e8",
+        "englishWord": "late"
+      },
+      {
+        "rank": 241,
+        "targetWord": "\u05dc\u05e8\u05d5\u05e5",
+        "englishWord": "run"
+      },
+      {
+        "rank": 242,
+        "targetWord": "\u05dc\u05d0",
+        "englishWord": "don\u2019t"
+      },
+      {
+        "rank": 243,
+        "targetWord": "\u05ea\u05d5\u05da",
+        "englishWord": "while"
+      },
+      {
+        "rank": 244,
+        "targetWord": "\u05e2\u05d9\u05ea\u05d5\u05e0\u05d5\u05ea",
+        "englishWord": "press"
+      },
+      {
+        "rank": 245,
+        "targetWord": "\u05e7\u05e8\u05d5\u05d1",
+        "englishWord": "close"
+      },
+      {
+        "rank": 246,
+        "targetWord": "\u05dc\u05d9\u05dc\u05d4",
+        "englishWord": "night"
+      },
+      {
+        "rank": 247,
+        "targetWord": "\u05d0\u05de\u05d9\u05ea\u05d9",
+        "englishWord": "real"
+      },
+      {
+        "rank": 248,
+        "targetWord": "\u05d7\u05d9\u05d9\u05dd",
+        "englishWord": "life"
+      },
+      {
+        "rank": 249,
+        "targetWord": "\u05db\u05de\u05d4",
+        "englishWord": "few"
+      },
+      {
+        "rank": 250,
+        "targetWord": "\u05e6\u05e4\u05d5\u05df",
+        "englishWord": "north"
+      },
+      {
+        "rank": 251,
+        "targetWord": "\u05e1\u05e4\u05e8",
+        "englishWord": "book"
+      },
+      {
+        "rank": 252,
+        "targetWord": "\u05dc\u05e9\u05d0\u05ea",
+        "englishWord": "carry"
+      },
+      {
+        "rank": 253,
+        "targetWord": "\u05dc\u05e7\u05d7\u05ea\u05d9",
+        "englishWord": "took"
+      },
+      {
+        "rank": 254,
+        "targetWord": "\u05de\u05d3\u05e2",
+        "englishWord": "science"
+      },
+      {
+        "rank": 255,
+        "targetWord": "\u05dc\u05e1\u05e2\u05d5\u05d3",
+        "englishWord": "eat"
+      },
+      {
+        "rank": 256,
+        "targetWord": "\u05d7\u05d3\u05e8",
+        "englishWord": "room"
+      },
+      {
+        "rank": 257,
+        "targetWord": "\u05d7\u05d1\u05e8",
+        "englishWord": "friend"
+      },
+      {
+        "rank": 258,
+        "targetWord": "\u05d4\u05d7\u05dc",
+        "englishWord": "began"
+      },
+      {
+        "rank": 259,
+        "targetWord": "\u05e8\u05e2\u05d9\u05d5\u05df",
+        "englishWord": "idea"
+      },
+      {
+        "rank": 260,
+        "targetWord": "\u05d3\u05d2\u05d9\u05dd",
+        "englishWord": "fish"
+      },
+      {
+        "rank": 261,
+        "targetWord": "\u05d4\u05e8",
+        "englishWord": "mountain"
+      },
+      {
+        "rank": 262,
+        "targetWord": "\u05dc\u05d4\u05e4\u05e1\u05d9\u05e7",
+        "englishWord": "stop"
+      },
+      {
+        "rank": 263,
+        "targetWord": "\u05e4\u05e2\u05dd \u05d0\u05d7\u05ea",
+        "englishWord": "once"
+      },
+      {
+        "rank": 264,
+        "targetWord": "\u05d1\u05e1\u05d9\u05e1",
+        "englishWord": "base"
+      },
+      {
+        "rank": 265,
+        "targetWord": "\u05dc\u05e9\u05de\u05d5\u05e2",
+        "englishWord": "hear"
+      },
+      {
+        "rank": 266,
+        "targetWord": "\u05e1\u05d5\u05e1",
+        "englishWord": "horse"
+      },
+      {
+        "rank": 267,
+        "targetWord": "\u05dc\u05d7\u05ea\u05d5\u05da",
+        "englishWord": "cut"
+      },
+      {
+        "rank": 268,
+        "targetWord": "\u05d1\u05d8\u05d5\u05d7",
+        "englishWord": "sure"
+      },
+      {
+        "rank": 269,
+        "targetWord": "\u05dc\u05e6\u05e4\u05d5\u05ea",
+        "englishWord": "watch"
+      },
+      {
+        "rank": 270,
+        "targetWord": "\u05e6\u05d1\u05e2",
+        "englishWord": "color"
+      },
+      {
+        "rank": 271,
+        "targetWord": "\u05e4\u05e0\u05d9\u05dd",
+        "englishWord": "face"
+      },
+      {
+        "rank": 272,
+        "targetWord": "\u05e2\u05e5",
+        "englishWord": "wood"
+      },
+      {
+        "rank": 273,
+        "targetWord": "\u05e2\u05d9\u05e7\u05e8\u05d9",
+        "englishWord": "main"
+      },
+      {
+        "rank": 274,
+        "targetWord": "\u05e4\u05ea\u05d5\u05d7",
+        "englishWord": "open"
+      },
+      {
+        "rank": 275,
+        "targetWord": "\u05e0\u05e8\u05d0\u05d4",
+        "englishWord": "seem"
+      },
+      {
+        "rank": 276,
+        "targetWord": "\u05d9\u05d7\u05d3",
+        "englishWord": "together"
+      },
+      {
+        "rank": 277,
+        "targetWord": "\u05d4\u05d1\u05d0",
+        "englishWord": "next"
+      },
+      {
+        "rank": 278,
+        "targetWord": "\u05dc\u05d1\u05df",
+        "englishWord": "white"
+      },
+      {
+        "rank": 279,
+        "targetWord": "\u05d9\u05dc\u05d3\u05d9\u05dd",
+        "englishWord": "children"
+      },
+      {
+        "rank": 280,
+        "targetWord": "\u05dc\u05d4\u05ea\u05d7\u05d9\u05dc",
+        "englishWord": "begin"
+      },
+      {
+        "rank": 281,
+        "targetWord": "\u05dc\u05d9",
+        "englishWord": "got"
+      },
+      {
+        "rank": 282,
+        "targetWord": "\u05dc\u05dc\u05db\u05ea",
+        "englishWord": "walk"
+      },
+      {
+        "rank": 283,
+        "targetWord": "\u05d3\u05d5\u05d2\u05de\u05d0",
+        "englishWord": "example"
+      },
+      {
+        "rank": 284,
+        "targetWord": "\u05dc\u05d4\u05e7\u05dc",
+        "englishWord": "ease"
+      },
+      {
+        "rank": 285,
+        "targetWord": "\u05e0\u05d9\u05d9\u05e8",
+        "englishWord": "paper"
+      },
+      {
+        "rank": 286,
+        "targetWord": "\u05e7\u05d1\u05d5\u05e6\u05d4",
+        "englishWord": "group"
+      },
+      {
+        "rank": 287,
+        "targetWord": "\u05ea\u05de\u05d9\u05d3",
+        "englishWord": "always"
+      },
+      {
+        "rank": 288,
+        "targetWord": "\u05de\u05d5\u05e1\u05d9\u05e7\u05d4",
+        "englishWord": "music"
+      },
+      {
+        "rank": 289,
+        "targetWord": "\u05d0\u05dc\u05d4",
+        "englishWord": "those"
+      },
+      {
+        "rank": 290,
+        "targetWord": "\u05e9\u05e0\u05d9",
+        "englishWord": "both"
+      },
+      {
+        "rank": 291,
+        "targetWord": "\u05e1\u05d9\u05de\u05df",
+        "englishWord": "mark"
+      },
+      {
+        "rank": 292,
+        "targetWord": "\u05dc\u05e2\u05ea\u05d9\u05dd \u05e7\u05e8\u05d5\u05d1\u05d5\u05ea",
+        "englishWord": "often"
+      },
+      {
+        "rank": 293,
+        "targetWord": "\u05de\u05db\u05ea\u05d1",
+        "englishWord": "letter"
+      },
+      {
+        "rank": 294,
+        "targetWord": "\u05e2\u05d3",
+        "englishWord": "until"
+      },
+      {
+        "rank": 295,
+        "targetWord": "\u05de\u05d9\u05d9\u05dc",
+        "englishWord": "mile"
+      },
+      {
+        "rank": 296,
+        "targetWord": "\u05e0\u05d4\u05e8",
+        "englishWord": "river"
+      },
+      {
+        "rank": 297,
+        "targetWord": "\u05de\u05db\u05d5\u05e0\u05d9\u05ea",
+        "englishWord": "car"
+      },
+      {
+        "rank": 298,
+        "targetWord": "\u05e8\u05d2\u05dc\u05d9\u05d9\u05dd",
+        "englishWord": "feet"
+      },
+      {
+        "rank": 299,
+        "targetWord": "\u05d8\u05d9\u05e4\u05d5\u05dc",
+        "englishWord": "care"
+      },
+      {
+        "rank": 300,
+        "targetWord": "\u05e9\u05e0\u05d9",
+        "englishWord": "second"
+      },
+      {
+        "rank": 301,
+        "targetWord": "\u05de\u05e1\u05e4\u05d9\u05e7",
+        "englishWord": "enough"
+      },
+      {
+        "rank": 302,
+        "targetWord": "\u05de\u05d9\u05e9\u05d5\u05e8",
+        "englishWord": "plain"
+      },
+      {
+        "rank": 303,
+        "targetWord": "\u05d9\u05dc\u05d3\u05d4",
+        "englishWord": "girl"
+      },
+      {
+        "rank": 304,
+        "targetWord": "\u05db\u05e8\u05d2\u05d9\u05dc",
+        "englishWord": "usual"
+      },
+      {
+        "rank": 305,
+        "targetWord": "\u05e6\u05e2\u05d9\u05e8",
+        "englishWord": "young"
+      },
+      {
+        "rank": 306,
+        "targetWord": "\u05de\u05d5\u05db\u05df",
+        "englishWord": "ready"
+      },
+      {
+        "rank": 307,
+        "targetWord": "\u05de\u05e2\u05dc",
+        "englishWord": "above"
+      },
+      {
+        "rank": 308,
+        "targetWord": "\u05d0\u05d9 \u05e4\u05e2\u05dd",
+        "englishWord": "ever"
+      },
+      {
+        "rank": 309,
+        "targetWord": "\u05d0\u05d3\u05d5\u05dd",
+        "englishWord": "red"
+      },
+      {
+        "rank": 310,
+        "targetWord": "\u05e8\u05e9\u05d9\u05de\u05d4",
+        "englishWord": "list"
+      },
+      {
+        "rank": 311,
+        "targetWord": "\u05dc\u05de\u05e8\u05d5\u05ea \u05e9",
+        "englishWord": "though"
+      },
+      {
+        "rank": 312,
+        "targetWord": "\u05dc\u05d4\u05e8\u05d2\u05d9\u05e9",
+        "englishWord": "feel"
+      },
+      {
+        "rank": 313,
+        "targetWord": "\u05d3\u05d9\u05d1\u05d5\u05e8\u05d9\u05dd",
+        "englishWord": "talk"
+      },
+      {
+        "rank": 314,
+        "targetWord": "\u05e6\u05d9\u05e4\u05d5\u05e8",
+        "englishWord": "bird"
+      },
+      {
+        "rank": 315,
+        "targetWord": "\u05d1\u05e7\u05e8\u05d5\u05d1",
+        "englishWord": "soon"
+      },
+      {
+        "rank": 316,
+        "targetWord": "\u05d2\u05d5\u05e3",
+        "englishWord": "body"
+      },
+      {
+        "rank": 317,
+        "targetWord": "\u05db\u05dc\u05d1",
+        "englishWord": "dog"
+      },
+      {
+        "rank": 318,
+        "targetWord": "\u05de\u05e9\u05e4\u05d7\u05d4",
+        "englishWord": "family"
+      },
+      {
+        "rank": 319,
+        "targetWord": "\u05d9\u05e9\u05d9\u05e8",
+        "englishWord": "direct"
+      },
+      {
+        "rank": 320,
+        "targetWord": "\u05e4\u05d5\u05d6\u05d4",
+        "englishWord": "pose"
+      },
+      {
+        "rank": 321,
+        "targetWord": "\u05dc\u05e2\u05d6\u05d5\u05d1",
+        "englishWord": "leave"
+      },
+      {
+        "rank": 322,
+        "targetWord": "\u05e9\u05d9\u05e8",
+        "englishWord": "song"
+      },
+      {
+        "rank": 323,
+        "targetWord": "\u05dc\u05de\u05d3\u05d5\u05d3",
+        "englishWord": "measure"
+      },
+      {
+        "rank": 324,
+        "targetWord": "\u05d3\u05dc\u05ea",
+        "englishWord": "door"
+      },
+      {
+        "rank": 325,
+        "targetWord": "\u05de\u05d5\u05e6\u05e8",
+        "englishWord": "product"
+      },
+      {
+        "rank": 326,
+        "targetWord": "\u05e9\u05d7\u05d5\u05e8",
+        "englishWord": "black"
+      },
+      {
+        "rank": 327,
+        "targetWord": "\u05e7\u05e6\u05e8",
+        "englishWord": "short"
+      },
+      {
+        "rank": 328,
+        "targetWord": "\u05e1\u05e4\u05e8\u05d4",
+        "englishWord": "numeral"
+      },
+      {
+        "rank": 329,
+        "targetWord": "\u05db\u05d9\u05ea\u05d4",
+        "englishWord": "class"
+      },
+      {
+        "rank": 330,
+        "targetWord": "\u05e8\u05d5\u05d7",
+        "englishWord": "wind"
+      },
+      {
+        "rank": 331,
+        "targetWord": "\u05e9\u05d0\u05dc\u05d4",
+        "englishWord": "question"
+      },
+      {
+        "rank": 332,
+        "targetWord": "\u05dc\u05e7\u05e8\u05d5\u05ea",
+        "englishWord": "happen"
+      },
+      {
+        "rank": 333,
+        "targetWord": "\u05de\u05dc\u05d0",
+        "englishWord": "complete"
+      },
+      {
+        "rank": 334,
+        "targetWord": "\u05e1\u05e4\u05d9\u05e0\u05d4",
+        "englishWord": "ship"
+      },
+      {
+        "rank": 335,
+        "targetWord": "\u05d0\u05d6\u05d5\u05e8",
+        "englishWord": "area"
+      },
+      {
+        "rank": 336,
+        "targetWord": "\u05de\u05d7\u05e6\u05d9\u05ea",
+        "englishWord": "half"
+      },
+      {
+        "rank": 337,
+        "targetWord": "\u05e8\u05d5\u05e7",
+        "englishWord": "rock"
+      },
+      {
+        "rank": 338,
+        "targetWord": "\u05db\u05d3\u05d9",
+        "englishWord": "order"
+      },
+      {
+        "rank": 339,
+        "targetWord": "\u05d0\u05e9",
+        "englishWord": "fire"
+      },
+      {
+        "rank": 340,
+        "targetWord": "\u05d3\u05e8\u05d5\u05dd",
+        "englishWord": "south"
+      },
+      {
+        "rank": 341,
+        "targetWord": "\u05d1\u05e2\u05d9\u05d4",
+        "englishWord": "problem"
+      },
+      {
+        "rank": 342,
+        "targetWord": "\u05d7\u05ea\u05d9\u05db\u05d4",
+        "englishWord": "piece"
+      },
+      {
+        "rank": 343,
+        "targetWord": "\u05d0\u05de\u05e8 \u05dc\u05d9",
+        "englishWord": "told"
+      },
+      {
+        "rank": 344,
+        "targetWord": "\u05d9\u05d3\u05e2\u05ea\u05d9",
+        "englishWord": "knew"
+      },
+      {
+        "rank": 345,
+        "targetWord": "\u05e2\u05d5\u05d1\u05e8",
+        "englishWord": "pass"
+      },
+      {
+        "rank": 346,
+        "targetWord": "\u05de\u05d0\u05d6",
+        "englishWord": "since"
+      },
+      {
+        "rank": 347,
+        "targetWord": "\u05e2\u05dc\u05d9\u05d5\u05df",
+        "englishWord": "top"
+      },
+      {
+        "rank": 348,
+        "targetWord": "\u05db\u05dc",
+        "englishWord": "whole"
+      },
+      {
+        "rank": 349,
+        "targetWord": "\u05de\u05dc\u05da",
+        "englishWord": "king"
+      },
+      {
+        "rank": 350,
+        "targetWord": "\u05e8\u05d7\u05d5\u05d1",
+        "englishWord": "street"
+      },
+      {
+        "rank": 351,
+        "targetWord": "\u05d0\u05d9\u05e0\u05e5",
+        "englishWord": "inch"
+      },
+      {
+        "rank": 352,
+        "targetWord": "\u05dc\u05d4\u05db\u05e4\u05d9\u05dc",
+        "englishWord": "multiply"
+      },
+      {
+        "rank": 353,
+        "targetWord": "\u05e9\u05d5\u05dd \u05d3\u05d1\u05e8",
+        "englishWord": "nothing"
+      },
+      {
+        "rank": 354,
+        "targetWord": "\u05db\u05de\u05d5\u05d1\u05df",
+        "englishWord": "course"
+      },
+      {
+        "rank": 355,
+        "targetWord": "\u05dc\u05d4\u05d9\u05e9\u05d0\u05e8",
+        "englishWord": "stay"
+      },
+      {
+        "rank": 356,
+        "targetWord": "\u05d2\u05dc\u05d2\u05dc",
+        "englishWord": "wheel"
+      },
+      {
+        "rank": 357,
+        "targetWord": "\u05de\u05dc\u05d0",
+        "englishWord": "full"
+      },
+      {
+        "rank": 358,
+        "targetWord": "\u05db\u05d5\u05d7",
+        "englishWord": "force"
+      },
+      {
+        "rank": 359,
+        "targetWord": "\u05db\u05d7\u05d5\u05dc",
+        "englishWord": "blue"
+      },
+      {
+        "rank": 360,
+        "targetWord": "\u05d0\u05d5\u05d1\u05d9\u05d9\u05e7\u05d8",
+        "englishWord": "object"
+      },
+      {
+        "rank": 361,
+        "targetWord": "\u05dc\u05d4\u05d7\u05dc\u05d9\u05d8",
+        "englishWord": "decide"
+      },
+      {
+        "rank": 362,
+        "targetWord": "\u05e4\u05e0\u05d9 \u05d4\u05e9\u05d8\u05d7",
+        "englishWord": "surface"
+      },
+      {
+        "rank": 363,
+        "targetWord": "\u05e2\u05de\u05d5\u05e7",
+        "englishWord": "deep"
+      },
+      {
+        "rank": 364,
+        "targetWord": "\u05d9\u05e8\u05d7",
+        "englishWord": "moon"
+      },
+      {
+        "rank": 365,
+        "targetWord": "\u05d0\u05d9",
+        "englishWord": "island"
+      },
+      {
+        "rank": 366,
+        "targetWord": "\u05e8\u05d2\u05dc",
+        "englishWord": "foot"
+      },
+      {
+        "rank": 367,
+        "targetWord": "\u05de\u05e2\u05e8\u05db\u05ea",
+        "englishWord": "system"
+      },
+      {
+        "rank": 368,
+        "targetWord": "\u05e2\u05e1\u05d5\u05e7",
+        "englishWord": "busy"
+      },
+      {
+        "rank": 369,
+        "targetWord": "\u05de\u05d1\u05d7\u05df",
+        "englishWord": "test"
+      },
+      {
+        "rank": 370,
+        "targetWord": "\u05e9\u05d9\u05d0",
+        "englishWord": "record"
+      },
+      {
+        "rank": 371,
+        "targetWord": "\u05e1\u05d9\u05e8\u05d4",
+        "englishWord": "boat"
+      },
+      {
+        "rank": 372,
+        "targetWord": "\u05de\u05e9\u05d5\u05ea\u05e3",
+        "englishWord": "common"
+      },
+      {
+        "rank": 373,
+        "targetWord": "\u05d6\u05d4\u05d1",
+        "englishWord": "gold"
+      },
+      {
+        "rank": 374,
+        "targetWord": "\u05d0\u05e4\u05e9\u05e8\u05d9",
+        "englishWord": "possible"
+      },
+      {
+        "rank": 375,
+        "targetWord": "\u05de\u05d8\u05d5\u05e1",
+        "englishWord": "plane"
+      },
+      {
+        "rank": 376,
+        "targetWord": "\u05d1\u05de\u05e7\u05d5\u05dd",
+        "englishWord": "stead"
+      },
+      {
+        "rank": 377,
+        "targetWord": "\u05d9\u05d1\u05e9",
+        "englishWord": "dry"
+      },
+      {
+        "rank": 378,
+        "targetWord": "\u05e4\u05dc\u05d0",
+        "englishWord": "wonder"
+      },
+      {
+        "rank": 379,
+        "targetWord": "\u05e6\u05d7\u05d5\u05e7",
+        "englishWord": "laugh"
+      },
+      {
+        "rank": 380,
+        "targetWord": "\u05d0\u05dc\u05e3",
+        "englishWord": "thousand"
+      },
+      {
+        "rank": 381,
+        "targetWord": "\u05dc\u05e4\u05e0\u05d9",
+        "englishWord": "ago"
+      },
+      {
+        "rank": 382,
+        "targetWord": "\u05e8\u05e6\u05ea\u05d9",
+        "englishWord": "ran"
+      },
+      {
+        "rank": 383,
+        "targetWord": "\u05dc\u05d1\u05d3\u05d5\u05e7",
+        "englishWord": "check"
+      },
+      {
+        "rank": 384,
+        "targetWord": "\u05de\u05e9\u05d7\u05e7",
+        "englishWord": "game"
+      },
+      {
+        "rank": 385,
+        "targetWord": "\u05e6\u05d5\u05e8\u05d4",
+        "englishWord": "shape"
+      },
+      {
+        "rank": 386,
+        "targetWord": "\u05dc\u05d4\u05e9\u05d5\u05d5\u05ea",
+        "englishWord": "equate"
+      },
+      {
+        "rank": 387,
+        "targetWord": "\u05d7\u05dd",
+        "englishWord": "hot"
+      },
+      {
+        "rank": 388,
+        "targetWord": "\u05de\u05ea\u05d2\u05e2\u05d2\u05e2",
+        "englishWord": "miss"
+      },
+      {
+        "rank": 389,
+        "targetWord": "\u05d4\u05d1\u05d9\u05d0",
+        "englishWord": "brought"
+      },
+      {
+        "rank": 390,
+        "targetWord": "\u05d7\u05d5\u05dd",
+        "englishWord": "heat"
+      },
+      {
+        "rank": 391,
+        "targetWord": "\u05e9\u05dc\u05d2",
+        "englishWord": "snow"
+      },
+      {
+        "rank": 392,
+        "targetWord": "\u05e6\u05de\u05d9\u05d2",
+        "englishWord": "tire"
+      },
+      {
+        "rank": 393,
+        "targetWord": "\u05dc\u05d4\u05d1\u05d9\u05d0",
+        "englishWord": "bring"
+      },
+      {
+        "rank": 394,
+        "targetWord": "\u05db\u05df",
+        "englishWord": "yes"
+      },
+      {
+        "rank": 395,
+        "targetWord": "\u05e8\u05d7\u05d5\u05e7",
+        "englishWord": "distant"
+      },
+      {
+        "rank": 396,
+        "targetWord": "\u05dc\u05de\u05dc\u05d0",
+        "englishWord": "fill"
+      },
+      {
+        "rank": 397,
+        "targetWord": "\u05de\u05d6\u05e8\u05d7",
+        "englishWord": "east"
+      },
+      {
+        "rank": 398,
+        "targetWord": "\u05dc\u05e6\u05d9\u05d9\u05e8",
+        "englishWord": "paint"
+      },
+      {
+        "rank": 399,
+        "targetWord": "\u05e9\u05e4\u05d4",
+        "englishWord": "language"
+      },
+      {
+        "rank": 400,
+        "targetWord": "\u05d1\u05d9\u05df",
+        "englishWord": "among"
+      },
+      {
+        "rank": 401,
+        "targetWord": "\u05d9\u05d7\u05d9\u05d3\u05d4",
+        "englishWord": "unit"
+      },
+      {
+        "rank": 402,
+        "targetWord": "\u05db\u05d5\u05d7",
+        "englishWord": "power"
+      },
+      {
+        "rank": 403,
+        "targetWord": "\u05d4\u05e2\u05d9\u05e8",
+        "englishWord": "town"
+      },
+      {
+        "rank": 404,
+        "targetWord": "\u05e7\u05e0\u05e1",
+        "englishWord": "fine"
+      },
+      {
+        "rank": 405,
+        "targetWord": "\u05de\u05e1\u05d5\u05d9\u05dd",
+        "englishWord": "certain"
+      },
+      {
+        "rank": 406,
+        "targetWord": "\u05dc\u05e2\u05d5\u05e3",
+        "englishWord": "fly"
+      },
+      {
+        "rank": 407,
+        "targetWord": "\u05dc\u05d9\u05e4\u05d5\u05dc",
+        "englishWord": "fall"
+      },
+      {
+        "rank": 408,
+        "targetWord": "\u05dc\u05d4\u05d5\u05d1\u05d9\u05dc",
+        "englishWord": "lead"
+      },
+      {
+        "rank": 409,
+        "targetWord": "\u05d6\u05e2\u05e7\u05d4",
+        "englishWord": "cry"
+      },
+      {
+        "rank": 410,
+        "targetWord": "\u05d0\u05e4\u05dc",
+        "englishWord": "dark"
+      },
+      {
+        "rank": 411,
+        "targetWord": "\u05de\u05db\u05d5\u05e0\u05d4",
+        "englishWord": "machine"
+      },
+      {
+        "rank": 412,
+        "targetWord": "\u05d4\u05e2\u05e8\u05d4",
+        "englishWord": "note"
+      },
+      {
+        "rank": 413,
+        "targetWord": "\u05dc\u05d7\u05db\u05d5\u05ea",
+        "englishWord": "wait"
+      },
+      {
+        "rank": 414,
+        "targetWord": "\u05ea\u05db\u05e0\u05d9\u05ea",
+        "englishWord": "plan"
+      },
+      {
+        "rank": 415,
+        "targetWord": "\u05d3\u05de\u05d5\u05ea",
+        "englishWord": "figure"
+      },
+      {
+        "rank": 416,
+        "targetWord": "\u05db\u05d5\u05db\u05d1",
+        "englishWord": "star"
+      },
+      {
+        "rank": 417,
+        "targetWord": "\u05ea\u05d9\u05d1\u05d4",
+        "englishWord": "box"
+      },
+      {
+        "rank": 418,
+        "targetWord": "\u05e9\u05dd \u05e2\u05e6\u05dd",
+        "englishWord": "noun"
+      },
+      {
+        "rank": 419,
+        "targetWord": "\u05e9\u05d3\u05d4",
+        "englishWord": "field"
+      },
+      {
+        "rank": 420,
+        "targetWord": "\u05e9\u05d0\u05e8",
+        "englishWord": "rest"
+      },
+      {
+        "rank": 421,
+        "targetWord": "\u05e0\u05db\u05d5\u05df",
+        "englishWord": "correct"
+      },
+      {
+        "rank": 422,
+        "targetWord": "\u05ea\u05d5\u05db\u05dc",
+        "englishWord": "able"
+      },
+      {
+        "rank": 423,
+        "targetWord": "\u05e7\u05d9\u05dc\u05d5",
+        "englishWord": "pound"
+      },
+      {
+        "rank": 424,
+        "targetWord": "\u05e2\u05e9\u05d9\u05ea\u05d9",
+        "englishWord": "done"
+      },
+      {
+        "rank": 425,
+        "targetWord": "\u05d9\u05d5\u05e4\u05d9",
+        "englishWord": "beauty"
+      },
+      {
+        "rank": 426,
+        "targetWord": "\u05db\u05d5\u05e0\u05df",
+        "englishWord": "drive"
+      },
+      {
+        "rank": 427,
+        "targetWord": "\u05e2\u05de\u05d3",
+        "englishWord": "stood"
+      },
+      {
+        "rank": 428,
+        "targetWord": "\u05dc\u05d4\u05db\u05d9\u05dc",
+        "englishWord": "contain"
+      },
+      {
+        "rank": 429,
+        "targetWord": "\u05de\u05d5\u05dc",
+        "englishWord": "front"
+      },
+      {
+        "rank": 430,
+        "targetWord": "\u05dc\u05dc\u05de\u05d3",
+        "englishWord": "teach"
+      },
+      {
+        "rank": 431,
+        "targetWord": "\u05e9\u05d1\u05d5\u05e2",
+        "englishWord": "week"
+      },
+      {
+        "rank": 432,
+        "targetWord": "\u05e1\u05d5\u05e4\u05d9",
+        "englishWord": "final"
+      },
+      {
+        "rank": 433,
+        "targetWord": "\u05e0\u05ea\u05ea\u05d9",
+        "englishWord": "gave"
+      },
+      {
+        "rank": 434,
+        "targetWord": "\u05d9\u05e8\u05d5\u05e7",
+        "englishWord": "green"
+      },
+      {
+        "rank": 435,
+        "targetWord": "\u05d4\u05d5",
+        "englishWord": "oh"
+      },
+      {
+        "rank": 436,
+        "targetWord": "\u05de\u05d4\u05d9\u05e8",
+        "englishWord": "quick"
+      },
+      {
+        "rank": 437,
+        "targetWord": "\u05dc\u05e4\u05ea\u05d7",
+        "englishWord": "develop"
+      },
+      {
+        "rank": 438,
+        "targetWord": "\u05d0\u05d5\u05e7\u05d9\u05d9\u05e0\u05d5\u05e1",
+        "englishWord": "ocean"
+      },
+      {
+        "rank": 439,
+        "targetWord": "\u05d7\u05dd",
+        "englishWord": "warm"
+      },
+      {
+        "rank": 440,
+        "targetWord": "\u05d7\u05d5\u05e4\u05e9\u05d9",
+        "englishWord": "free"
+      },
+      {
+        "rank": 441,
+        "targetWord": "\u05d3\u05e7\u05d5\u05ea",
+        "englishWord": "minute"
+      },
+      {
+        "rank": 442,
+        "targetWord": "\u05d7\u05d6\u05e7",
+        "englishWord": "strong"
+      },
+      {
+        "rank": 443,
+        "targetWord": "\u05de\u05d9\u05d5\u05d7\u05d3",
+        "englishWord": "special"
+      },
+      {
+        "rank": 444,
+        "targetWord": "\u05d3\u05e2\u05d4",
+        "englishWord": "mind"
+      },
+      {
+        "rank": 445,
+        "targetWord": "\u05de\u05d0\u05d7\u05d5\u05e8",
+        "englishWord": "behind"
+      },
+      {
+        "rank": 446,
+        "targetWord": "\u05d1\u05e8\u05d5\u05e8",
+        "englishWord": "clear"
+      },
+      {
+        "rank": 447,
+        "targetWord": "\u05d6\u05e0\u05d1",
+        "englishWord": "tail"
+      },
+      {
+        "rank": 448,
+        "targetWord": "\u05dc\u05d9\u05d9\u05e6\u05e8",
+        "englishWord": "produce"
+      },
+      {
+        "rank": 449,
+        "targetWord": "\u05e2\u05d5\u05d1\u05d3\u05d4",
+        "englishWord": "fact"
+      },
+      {
+        "rank": 450,
+        "targetWord": "\u05d7\u05dc\u05dc",
+        "englishWord": "space"
+      },
+      {
+        "rank": 451,
+        "targetWord": "\u05e9\u05de\u05e2",
+        "englishWord": "heard"
+      },
+      {
+        "rank": 452,
+        "targetWord": "\u05d4\u05d8\u05d5\u05d1 \u05d1\u05d9\u05d5\u05ea\u05e8",
+        "englishWord": "best"
+      },
+      {
+        "rank": 453,
+        "targetWord": "\u05e9\u05e2\u05d4",
+        "englishWord": "hour"
+      },
+      {
+        "rank": 454,
+        "targetWord": "\u05d8\u05d5\u05d1 \u05d9\u05d5\u05ea\u05e8",
+        "englishWord": "better"
+      },
+      {
+        "rank": 455,
+        "targetWord": "\u05e0\u05db\u05d5\u05df",
+        "englishWord": "true"
+      },
+      {
+        "rank": 456,
+        "targetWord": "\u05d1\u05de\u05d4\u05dc\u05da",
+        "englishWord": "during"
+      },
+      {
+        "rank": 457,
+        "targetWord": "\u05de\u05d0\u05d4",
+        "englishWord": "hundred"
+      },
+      {
+        "rank": 458,
+        "targetWord": "\u05d7\u05de\u05e9",
+        "englishWord": "five"
+      },
+      {
+        "rank": 459,
+        "targetWord": "\u05dc\u05d6\u05db\u05d5\u05e8",
+        "englishWord": "remember"
+      },
+      {
+        "rank": 460,
+        "targetWord": "\u05e6\u05e2\u05d3",
+        "englishWord": "step"
+      },
+      {
+        "rank": 461,
+        "targetWord": "\u05de\u05d5\u05e7\u05d3\u05dd",
+        "englishWord": "early"
+      },
+      {
+        "rank": 462,
+        "targetWord": "\u05dc\u05d4\u05d7\u05d6\u05d9\u05e7",
+        "englishWord": "hold"
+      },
+      {
+        "rank": 463,
+        "targetWord": "\u05de\u05e2\u05e8\u05d1",
+        "englishWord": "west"
+      },
+      {
+        "rank": 464,
+        "targetWord": "\u05e7\u05e8\u05e7\u05e2",
+        "englishWord": "ground"
+      },
+      {
+        "rank": 465,
+        "targetWord": "\u05e2\u05e0\u05d9\u05d9\u05df",
+        "englishWord": "interest"
+      },
+      {
+        "rank": 466,
+        "targetWord": "\u05dc\u05d4\u05d2\u05d9\u05e2",
+        "englishWord": "reach"
+      },
+      {
+        "rank": 467,
+        "targetWord": "\u05de\u05d4\u05e8",
+        "englishWord": "fast"
+      },
+      {
+        "rank": 468,
+        "targetWord": "\u05e4\u05d5\u05e2\u05dc",
+        "englishWord": "verb"
+      },
+      {
+        "rank": 469,
+        "targetWord": "\u05dc\u05e9\u05d9\u05e8",
+        "englishWord": "sing"
+      },
+      {
+        "rank": 470,
+        "targetWord": "\u05dc\u05d4\u05e7\u05e9\u05d9\u05d1",
+        "englishWord": "listen"
+      },
+      {
+        "rank": 471,
+        "targetWord": "\u05e9\u05e9",
+        "englishWord": "six"
+      },
+      {
+        "rank": 472,
+        "targetWord": "\u05e9\u05d5\u05dc\u05d7\u05df",
+        "englishWord": "table"
+      },
+      {
+        "rank": 473,
+        "targetWord": "\u05e0\u05e1\u05d9\u05e2\u05d4",
+        "englishWord": "travel"
+      },
+      {
+        "rank": 474,
+        "targetWord": "\u05e4\u05d7\u05d5\u05ea",
+        "englishWord": "less"
+      },
+      {
+        "rank": 475,
+        "targetWord": "\u05d1\u05d5\u05e7\u05e8",
+        "englishWord": "morning"
+      },
+      {
+        "rank": 476,
+        "targetWord": "\u05e2\u05e9\u05e8",
+        "englishWord": "ten"
+      },
+      {
+        "rank": 477,
+        "targetWord": "\u05e4\u05e9\u05d5\u05d8",
+        "englishWord": "simple"
+      },
+      {
+        "rank": 478,
+        "targetWord": "\u05db\u05de\u05d4",
+        "englishWord": "several"
+      },
+      {
+        "rank": 479,
+        "targetWord": "\u05ea\u05e0\u05d5\u05e2\u05d4",
+        "englishWord": "vowel"
+      },
+      {
+        "rank": 480,
+        "targetWord": "\u05dc\u05e7\u05e8\u05d0\u05ea",
+        "englishWord": "toward"
+      },
+      {
+        "rank": 481,
+        "targetWord": "\u05de\u05dc\u05d7\u05de\u05d4",
+        "englishWord": "war"
+      },
+      {
+        "rank": 482,
+        "targetWord": "\u05e9\u05db\u05d1\u05ea\u05d9",
+        "englishWord": "lay"
+      },
+      {
+        "rank": 483,
+        "targetWord": "\u05e0\u05d2\u05d3",
+        "englishWord": "against"
+      },
+      {
+        "rank": 484,
+        "targetWord": "\u05d3\u05e4\u05d5\u05e1",
+        "englishWord": "pattern"
+      },
+      {
+        "rank": 485,
+        "targetWord": "\u05d0\u05d9\u05d8\u05d9",
+        "englishWord": "slow"
+      },
+      {
+        "rank": 486,
+        "targetWord": "\u05de\u05e8\u05db\u05d6",
+        "englishWord": "center"
+      },
+      {
+        "rank": 487,
+        "targetWord": "\u05d0\u05d4\u05d1\u05d4",
+        "englishWord": "love"
+      },
+      {
+        "rank": 488,
+        "targetWord": "\u05d0\u05d3\u05dd",
+        "englishWord": "person"
+      },
+      {
+        "rank": 489,
+        "targetWord": "\u05db\u05e1\u05e3",
+        "englishWord": "money"
+      },
+      {
+        "rank": 490,
+        "targetWord": "\u05dc\u05e9\u05e8\u05ea",
+        "englishWord": "serve"
+      },
+      {
+        "rank": 491,
+        "targetWord": "\u05dc\u05d4\u05d5\u05e4\u05d9\u05e2",
+        "englishWord": "appear"
+      },
+      {
+        "rank": 492,
+        "targetWord": "\u05db\u05d1\u05d9\u05e9",
+        "englishWord": "road"
+      },
+      {
+        "rank": 493,
+        "targetWord": "\u05d4\u05de\u05e4\u05d4",
+        "englishWord": "map"
+      },
+      {
+        "rank": 494,
+        "targetWord": "\u05d2\u05e9\u05dd",
+        "englishWord": "rain"
+      },
+      {
+        "rank": 495,
+        "targetWord": "\u05e9\u05dc\u05d8\u05d5\u05df",
+        "englishWord": "rule"
+      },
+      {
+        "rank": 496,
+        "targetWord": "\u05dc\u05de\u05e9\u05d5\u05dc",
+        "englishWord": "govern"
+      },
+      {
+        "rank": 497,
+        "targetWord": "\u05dc\u05de\u05e9\u05d5\u05da",
+        "englishWord": "pull"
+      },
+      {
+        "rank": 498,
+        "targetWord": "\u05e7\u05e8",
+        "englishWord": "cold"
+      },
+      {
+        "rank": 499,
+        "targetWord": "\u05d4\u05d5\u05d3\u05e2\u05d4",
+        "englishWord": "notice"
+      },
+      {
+        "rank": 500,
+        "targetWord": "\u05e7\u05d5\u05dc",
+        "englishWord": "voice"
+      },
+      {
+        "rank": 501,
+        "targetWord": "\u05d0\u05e0\u05e8\u05d2\u05d9\u05d4",
+        "englishWord": "energy"
+      },
+      {
+        "rank": 502,
+        "targetWord": "\u05e6\u05d9\u05d3",
+        "englishWord": "hunt"
+      },
+      {
+        "rank": 503,
+        "targetWord": "\u05e1\u05d1\u05d9\u05e8",
+        "englishWord": "probable"
+      },
+      {
+        "rank": 504,
+        "targetWord": "\u05de\u05d9\u05d8\u05d4",
+        "englishWord": "bed"
+      },
+      {
+        "rank": 505,
+        "targetWord": "\u05d0\u05d7",
+        "englishWord": "brother"
+      },
+      {
+        "rank": 506,
+        "targetWord": "\u05d1\u05d9\u05e6\u05d4",
+        "englishWord": "egg"
+      },
+      {
+        "rank": 507,
+        "targetWord": "\u05e0\u05e1\u05d9\u05e2\u05d4",
+        "englishWord": "ride"
+      },
+      {
+        "rank": 508,
+        "targetWord": "\u05ea\u05d0",
+        "englishWord": "cell"
+      },
+      {
+        "rank": 509,
+        "targetWord": "\u05de\u05d0\u05de\u05d9\u05df",
+        "englishWord": "believe"
+      },
+      {
+        "rank": 510,
+        "targetWord": "\u05d0\u05d5\u05dc\u05d9",
+        "englishWord": "perhaps"
+      },
+      {
+        "rank": 511,
+        "targetWord": "\u05dc\u05d1\u05d7\u05d5\u05e8",
+        "englishWord": "pick"
+      },
+      {
+        "rank": 512,
+        "targetWord": "\u05e4\u05ea\u05d0\u05d5\u05de\u05d9",
+        "englishWord": "sudden"
+      },
+      {
+        "rank": 513,
+        "targetWord": "\u05dc\u05e1\u05e4\u05d5\u05e8",
+        "englishWord": "count"
+      },
+      {
+        "rank": 514,
+        "targetWord": "\u05e8\u05d1\u05d5\u05e2",
+        "englishWord": "square"
+      },
+      {
+        "rank": 515,
+        "targetWord": "\u05e1\u05d9\u05d1\u05d4",
+        "englishWord": "reason"
+      },
+      {
+        "rank": 516,
+        "targetWord": "\u05de\u05e9\u05da",
+        "englishWord": "length"
+      },
+      {
+        "rank": 517,
+        "targetWord": "\u05de\u05d9\u05d9\u05e6\u05d2",
+        "englishWord": "represent"
+      },
+      {
+        "rank": 518,
+        "targetWord": "\u05d0\u05de\u05e0\u05d5\u05ea",
+        "englishWord": "art"
+      },
+      {
+        "rank": 519,
+        "targetWord": "\u05e0\u05d5\u05e9\u05d0",
+        "englishWord": "subject"
+      },
+      {
+        "rank": 520,
+        "targetWord": "\u05d0\u05d6\u05d5\u05e8",
+        "englishWord": "region"
+      },
+      {
+        "rank": 521,
+        "targetWord": "\u05d2\u05d5\u05d3\u05dc",
+        "englishWord": "size"
+      },
+      {
+        "rank": 522,
+        "targetWord": "\u05dc\u05d4\u05e9\u05ea\u05e0\u05d5\u05ea",
+        "englishWord": "vary"
+      },
+      {
+        "rank": 523,
+        "targetWord": "\u05dc\u05d4\u05ea\u05d9\u05d9\u05e9\u05d1",
+        "englishWord": "settle"
+      },
+      {
+        "rank": 524,
+        "targetWord": "\u05dc\u05d3\u05d1\u05e8",
+        "englishWord": "speak"
+      },
+      {
+        "rank": 525,
+        "targetWord": "\u05de\u05e9\u05e7\u05dc",
+        "englishWord": "weight"
+      },
+      {
+        "rank": 526,
+        "targetWord": "\u05db\u05dc\u05dc\u05d9",
+        "englishWord": "general"
+      },
+      {
+        "rank": 527,
+        "targetWord": "\u05e7\u05e8\u05d7",
+        "englishWord": "ice"
+      },
+      {
+        "rank": 528,
+        "targetWord": "\u05e2\u05e0\u05d9\u05d9\u05df",
+        "englishWord": "matter"
+      },
+      {
+        "rank": 529,
+        "targetWord": "\u05d4\u05de\u05e2\u05d2\u05dc",
+        "englishWord": "circle"
+      },
+      {
+        "rank": 530,
+        "targetWord": "\u05d6\u05d5\u05d2",
+        "englishWord": "pair"
+      },
+      {
+        "rank": 531,
+        "targetWord": "\u05db\u05d5\u05dc\u05dc",
+        "englishWord": "include"
+      },
+      {
+        "rank": 532,
+        "targetWord": "\u05e4\u05e2\u05e8",
+        "englishWord": "divide"
+      },
+      {
+        "rank": 533,
+        "targetWord": "\u05d4\u05d1\u05e8\u05d4",
+        "englishWord": "syllable"
+      },
+      {
+        "rank": 534,
+        "targetWord": "\u05d4\u05e8\u05d2\u05d9\u05e9",
+        "englishWord": "felt"
+      },
+      {
+        "rank": 535,
+        "targetWord": "\u05d2\u05d3\u05d5\u05dc",
+        "englishWord": "grand"
+      },
+      {
+        "rank": 536,
+        "targetWord": "\u05db\u05d3\u05d5\u05e8",
+        "englishWord": "ball"
+      },
+      {
+        "rank": 537,
+        "targetWord": "\u05d1\u05db\u05dc \u05d6\u05d0\u05ea",
+        "englishWord": "yet"
+      },
+      {
+        "rank": 538,
+        "targetWord": "\u05d2\u05dc",
+        "englishWord": "wave"
+      },
+      {
+        "rank": 539,
+        "targetWord": "\u05d8\u05d9\u05e4\u05d4",
+        "englishWord": "drop"
+      },
+      {
+        "rank": 540,
+        "targetWord": "\u05dc\u05d1",
+        "englishWord": "heart"
+      },
+      {
+        "rank": 541,
+        "targetWord": "\u05d1\u05d1\u05d5\u05e7\u05e8",
+        "englishWord": "am"
+      },
+      {
+        "rank": 542,
+        "targetWord": "\u05e0\u05d5\u05db\u05d7\u05d9",
+        "englishWord": "present"
+      },
+      {
+        "rank": 543,
+        "targetWord": "\u05db\u05d1\u05d3",
+        "englishWord": "heavy"
+      },
+      {
+        "rank": 544,
+        "targetWord": "\u05e8\u05d9\u05e7\u05d5\u05d3",
+        "englishWord": "dance"
+      },
+      {
+        "rank": 545,
+        "targetWord": "\u05de\u05e0\u05d5\u05e2",
+        "englishWord": "engine"
+      },
+      {
+        "rank": 546,
+        "targetWord": "\u05e2\u05de\u05d3\u05d4",
+        "englishWord": "position"
+      },
+      {
+        "rank": 547,
+        "targetWord": "\u05d6\u05e8\u05d5\u05e2",
+        "englishWord": "arm"
+      },
+      {
+        "rank": 548,
+        "targetWord": "\u05e8\u05d7\u05d1",
+        "englishWord": "wide"
+      },
+      {
+        "rank": 549,
+        "targetWord": "\u05de\u05e4\u05e8\u05e9",
+        "englishWord": "sail"
+      },
+      {
+        "rank": 550,
+        "targetWord": "\u05d7\u05d5\u05de\u05e8",
+        "englishWord": "material"
+      },
+      {
+        "rank": 551,
+        "targetWord": "\u05d7\u05dc\u05e7",
+        "englishWord": "fraction"
+      },
+      {
+        "rank": 552,
+        "targetWord": "\u05d9\u05e2\u05e8",
+        "englishWord": "forest"
+      },
+      {
+        "rank": 553,
+        "targetWord": "\u05dc\u05e9\u05d1\u05ea",
+        "englishWord": "sit"
+      },
+      {
+        "rank": 554,
+        "targetWord": "\u05de\u05d9\u05e8\u05d5\u05e5",
+        "englishWord": "race"
+      },
+      {
+        "rank": 555,
+        "targetWord": "\u05d7\u05dc\u05d5\u05df",
+        "englishWord": "window"
+      },
+      {
+        "rank": 556,
+        "targetWord": "\u05d7\u05e0\u05d5\u05ea",
+        "englishWord": "store"
+      },
+      {
+        "rank": 557,
+        "targetWord": "\u05d4\u05e7\u05d9\u05e5",
+        "englishWord": "summer"
+      },
+      {
+        "rank": 558,
+        "targetWord": "\u05e8\u05db\u05d1\u05ea",
+        "englishWord": "train"
+      },
+      {
+        "rank": 559,
+        "targetWord": "\u05dc\u05d9\u05e9\u05d5\u05df",
+        "englishWord": "sleep"
+      },
+      {
+        "rank": 560,
+        "targetWord": "\u05dc\u05d4\u05d5\u05db\u05d9\u05d7",
+        "englishWord": "prove"
+      },
+      {
+        "rank": 561,
+        "targetWord": "\u05d1\u05d5\u05d3\u05d3",
+        "englishWord": "lone"
+      },
+      {
+        "rank": 562,
+        "targetWord": "\u05e8\u05d2\u05dc",
+        "englishWord": "leg"
+      },
+      {
+        "rank": 563,
+        "targetWord": "\u05ea\u05e8\u05d2\u05d9\u05dc",
+        "englishWord": "exercise"
+      },
+      {
+        "rank": 564,
+        "targetWord": "\u05e7\u05d9\u05e8",
+        "englishWord": "wall"
+      },
+      {
+        "rank": 565,
+        "targetWord": "\u05de\u05dc\u05db\u05d5\u05d3",
+        "englishWord": "catch"
+      },
+      {
+        "rank": 566,
+        "targetWord": "\u05d4\u05e8",
+        "englishWord": "mount"
+      },
+      {
+        "rank": 567,
+        "targetWord": "\u05de\u05d0\u05d7\u05dc \u05dc\u05d9",
+        "englishWord": "wish"
+      },
+      {
+        "rank": 568,
+        "targetWord": "\u05e9\u05de\u05d9\u05dd",
+        "englishWord": "sky"
+      },
+      {
+        "rank": 569,
+        "targetWord": "\u05dc\u05d5\u05d7",
+        "englishWord": "board"
+      },
+      {
+        "rank": 570,
+        "targetWord": "\u05e9\u05de\u05d7\u05d4",
+        "englishWord": "joy"
+      },
+      {
+        "rank": 571,
+        "targetWord": "\u05d7\u05d5\u05e8\u05e3",
+        "englishWord": "winter"
+      },
+      {
+        "rank": 572,
+        "targetWord": "\u05d9\u05e9\u05d1\u05ea\u05d9",
+        "englishWord": "sat"
+      },
+      {
+        "rank": 573,
+        "targetWord": "\u05e0\u05db\u05ea\u05d1",
+        "englishWord": "written"
+      },
+      {
+        "rank": 574,
+        "targetWord": "\u05e4\u05e8\u05d0\u05d9",
+        "englishWord": "wild"
+      },
+      {
+        "rank": 575,
+        "targetWord": "\u05de\u05db\u05e9\u05d9\u05e8",
+        "englishWord": "instrument"
+      },
+      {
+        "rank": 576,
+        "targetWord": "\u05e9\u05de\u05e8",
+        "englishWord": "kept"
+      },
+      {
+        "rank": 577,
+        "targetWord": "\u05d6\u05db\u05d5\u05db\u05d9\u05ea",
+        "englishWord": "glass"
+      },
+      {
+        "rank": 578,
+        "targetWord": "\u05d3\u05e9\u05d0",
+        "englishWord": "grass"
+      },
+      {
+        "rank": 579,
+        "targetWord": "\u05e4\u05e8\u05d4",
+        "englishWord": "cow"
+      },
+      {
+        "rank": 580,
+        "targetWord": "\u05e2\u05d1\u05d5\u05d3\u05d4",
+        "englishWord": "job"
+      },
+      {
+        "rank": 581,
+        "targetWord": "\u05e7\u05e6\u05d4",
+        "englishWord": "edge"
+      },
+      {
+        "rank": 582,
+        "targetWord": "\u05e1\u05d9\u05de\u05df",
+        "englishWord": "sign"
+      },
+      {
+        "rank": 583,
+        "targetWord": "\u05d1\u05d9\u05e7\u05d5\u05e8",
+        "englishWord": "visit"
+      },
+      {
+        "rank": 584,
+        "targetWord": "\u05d4\u05d0\u05d7\u05e8\u05d5\u05df",
+        "englishWord": "past"
+      },
+      {
+        "rank": 585,
+        "targetWord": "\u05e8\u05da",
+        "englishWord": "soft"
+      },
+      {
+        "rank": 586,
+        "targetWord": "\u05db\u05d9\u05e3",
+        "englishWord": "fun"
+      },
+      {
+        "rank": 587,
+        "targetWord": "\u05d1\u05d4\u05d9\u05e8",
+        "englishWord": "bright"
+      },
+      {
+        "rank": 588,
+        "targetWord": "\u05d2\u05d6",
+        "englishWord": "gas"
+      },
+      {
+        "rank": 589,
+        "targetWord": "\u05de\u05d6\u05d2 \u05d0\u05d5\u05d5\u05d9\u05e8",
+        "englishWord": "weather"
+      },
+      {
+        "rank": 590,
+        "targetWord": "\u05d7\u05d5\u05d3\u05e9",
+        "englishWord": "month"
+      },
+      {
+        "rank": 591,
+        "targetWord": "\u05de\u05d9\u05dc\u05d9\u05d5\u05df",
+        "englishWord": "million"
+      },
+      {
+        "rank": 592,
+        "targetWord": "\u05dc\u05e9\u05d0\u05ea",
+        "englishWord": "bear"
+      },
+      {
+        "rank": 593,
+        "targetWord": "\u05d2\u05d9\u05de\u05d5\u05e8",
+        "englishWord": "finish"
+      },
+      {
+        "rank": 594,
+        "targetWord": "\u05e9\u05de\u05d7",
+        "englishWord": "happy"
+      },
+      {
+        "rank": 595,
+        "targetWord": "\u05de\u05e7\u05d5\u05d5\u05d4",
+        "englishWord": "hope"
+      },
+      {
+        "rank": 596,
+        "targetWord": "\u05e4\u05e8\u05d7",
+        "englishWord": "flower"
+      },
+      {
+        "rank": 597,
+        "targetWord": "\u05dc\u05d4\u05dc\u05d1\u05d9\u05e9",
+        "englishWord": "clothe"
+      },
+      {
+        "rank": 598,
+        "targetWord": "\u05de\u05d5\u05d6\u05e8",
+        "englishWord": "strange"
+      },
+      {
+        "rank": 599,
+        "targetWord": "\u05e0\u05e2\u05dc\u05dd",
+        "englishWord": "gone"
+      },
+      {
+        "rank": 600,
+        "targetWord": "\u05de\u05e1\u05d7\u05e8",
+        "englishWord": "trade"
+      },
+      {
+        "rank": 601,
+        "targetWord": "\u05de\u05e0\u05d2\u05d9\u05e0\u05d4",
+        "englishWord": "melody"
+      },
+      {
+        "rank": 602,
+        "targetWord": "\u05d8\u05d9\u05d5\u05dc",
+        "englishWord": "trip"
+      },
+      {
+        "rank": 603,
+        "targetWord": "\u05de\u05e9\u05e8\u05d3",
+        "englishWord": "office"
+      },
+      {
+        "rank": 604,
+        "targetWord": "\u05dc\u05e7\u05d1\u05dc",
+        "englishWord": "receive"
+      },
+      {
+        "rank": 605,
+        "targetWord": "\u05e9\u05d5\u05e8\u05d4",
+        "englishWord": "row"
+      },
+      {
+        "rank": 606,
+        "targetWord": "\u05e4\u05d4",
+        "englishWord": "mouth"
+      },
+      {
+        "rank": 607,
+        "targetWord": "\u05de\u05d3\u05d5\u05d9\u05e7",
+        "englishWord": "exact"
+      },
+      {
+        "rank": 608,
+        "targetWord": "\u05e1\u05de\u05dc",
+        "englishWord": "symbol"
+      },
+      {
+        "rank": 609,
+        "targetWord": "\u05dc\u05de\u05d5\u05ea",
+        "englishWord": "die"
+      },
+      {
+        "rank": 610,
+        "targetWord": "\u05dc\u05e4\u05d7\u05d5\u05ea",
+        "englishWord": "least"
+      },
+      {
+        "rank": 611,
+        "targetWord": "\u05e6\u05e8\u05d5\u05ea",
+        "englishWord": "trouble"
+      },
+      {
+        "rank": 612,
+        "targetWord": "\u05e6\u05e2\u05e7\u05d4",
+        "englishWord": "shout"
+      },
+      {
+        "rank": 613,
+        "targetWord": "\u05d0\u05dc\u05d0",
+        "englishWord": "except"
+      },
+      {
+        "rank": 614,
+        "targetWord": "\u05db\u05ea\u05d1\u05ea\u05d9",
+        "englishWord": "wrote"
+      },
+      {
+        "rank": 615,
+        "targetWord": "\u05d6\u05e8\u05e2",
+        "englishWord": "seed"
+      },
+      {
+        "rank": 616,
+        "targetWord": "\u05d8\u05d5\u05df",
+        "englishWord": "tone"
+      },
+      {
+        "rank": 617,
+        "targetWord": "\u05dc\u05d4\u05e6\u05d8\u05e8\u05e3",
+        "englishWord": "join"
+      },
+      {
+        "rank": 618,
+        "targetWord": "\u05de\u05e6\u05d9\u05e2",
+        "englishWord": "suggest"
+      },
+      {
+        "rank": 619,
+        "targetWord": "\u05e0\u05e7\u05d9",
+        "englishWord": "clean"
+      },
+      {
+        "rank": 620,
+        "targetWord": "\u05d4\u05e4\u05e1\u05e7\u05d4",
+        "englishWord": "break"
+      },
+      {
+        "rank": 621,
+        "targetWord": "\u05d2\u05d1\u05e8\u05ea",
+        "englishWord": "lady"
+      },
+      {
+        "rank": 622,
+        "targetWord": "\u05d7\u05e6\u05e8",
+        "englishWord": "yard"
+      },
+      {
+        "rank": 623,
+        "targetWord": "\u05dc\u05e2\u05dc\u05d5\u05ea",
+        "englishWord": "rise"
+      },
+      {
+        "rank": 624,
+        "targetWord": "\u05e8\u05e2",
+        "englishWord": "bad"
+      },
+      {
+        "rank": 625,
+        "targetWord": "\u05de\u05db\u05d4",
+        "englishWord": "blow"
+      },
+      {
+        "rank": 626,
+        "targetWord": "\u05e9\u05de\u05df",
+        "englishWord": "oil"
+      },
+      {
+        "rank": 627,
+        "targetWord": "\u05d3\u05dd",
+        "englishWord": "blood"
+      },
+      {
+        "rank": 628,
+        "targetWord": "\u05dc\u05d2\u05e2\u05ea",
+        "englishWord": "touch"
+      },
+      {
+        "rank": 629,
+        "targetWord": "\u05d2\u05d3\u05dc\u05ea\u05d9",
+        "englishWord": "grew"
+      },
+      {
+        "rank": 630,
+        "targetWord": "\u05e1\u05e0\u05d8",
+        "englishWord": "cent"
+      },
+      {
+        "rank": 631,
+        "targetWord": "\u05dc\u05e2\u05e8\u05d1\u05d1",
+        "englishWord": "mix"
+      },
+      {
+        "rank": 632,
+        "targetWord": "\u05e6\u05d5\u05d5\u05ea",
+        "englishWord": "team"
+      },
+      {
+        "rank": 633,
+        "targetWord": "\u05d7\u05d5\u05d8",
+        "englishWord": "wire"
+      },
+      {
+        "rank": 634,
+        "targetWord": "\u05e2\u05dc\u05d5\u05ea",
+        "englishWord": "cost"
+      },
+      {
+        "rank": 635,
+        "targetWord": "\u05d0\u05d9\u05d1\u05d3\u05ea\u05d9",
+        "englishWord": "lost"
+      },
+      {
+        "rank": 636,
+        "targetWord": "\u05d7\u05d5\u05dd",
+        "englishWord": "brown"
+      },
+      {
+        "rank": 637,
+        "targetWord": "\u05dc\u05dc\u05d1\u05d5\u05e9",
+        "englishWord": "wear"
+      },
+      {
+        "rank": 638,
+        "targetWord": "\u05d2\u05df",
+        "englishWord": "garden"
+      },
+      {
+        "rank": 639,
+        "targetWord": "\u05e9\u05d5\u05d5\u05d4",
+        "englishWord": "equal"
+      },
+      {
+        "rank": 640,
+        "targetWord": "\u05e9\u05dc\u05d7\u05ea\u05d9",
+        "englishWord": "sent"
+      },
+      {
+        "rank": 641,
+        "targetWord": "\u05dc\u05d1\u05d7\u05d5\u05e8",
+        "englishWord": "choose"
+      },
+      {
+        "rank": 642,
+        "targetWord": "\u05e0\u05e4\u05dc\u05ea\u05d9",
+        "englishWord": "fell"
+      },
+      {
+        "rank": 643,
+        "targetWord": "\u05dc\u05d4\u05ea\u05d0\u05d9\u05dd",
+        "englishWord": "fit"
+      },
+      {
+        "rank": 644,
+        "targetWord": "\u05dc\u05d6\u05e8\u05d5\u05dd",
+        "englishWord": "flow"
+      },
+      {
+        "rank": 645,
+        "targetWord": "\u05d4\u05d5\u05d2\u05df",
+        "englishWord": "fair"
+      },
+      {
+        "rank": 646,
+        "targetWord": "\u05d1\u05e0\u05e7",
+        "englishWord": "bank"
+      },
+      {
+        "rank": 647,
+        "targetWord": "\u05dc\u05d0\u05e1\u05d5\u05e3",
+        "englishWord": "collect"
+      },
+      {
+        "rank": 648,
+        "targetWord": "\u05dc\u05d4\u05e6\u05d9\u05dc",
+        "englishWord": "save"
+      },
+      {
+        "rank": 649,
+        "targetWord": "\u05e9\u05dc\u05d9\u05d8\u05d4",
+        "englishWord": "control"
+      },
+      {
+        "rank": 650,
+        "targetWord": "\u05e2\u05e9\u05e8\u05d5\u05e0\u05d9",
+        "englishWord": "decimal"
+      },
+      {
+        "rank": 651,
+        "targetWord": "\u05d0\u05d5\u05d6\u05df",
+        "englishWord": "ear"
+      },
+      {
+        "rank": 652,
+        "targetWord": "\u05d0\u05d7\u05e8",
+        "englishWord": "else"
+      },
+      {
+        "rank": 653,
+        "targetWord": "\u05d3\u05d9",
+        "englishWord": "quite"
+      },
+      {
+        "rank": 654,
+        "targetWord": "\u05e4\u05e8\u05e5",
+        "englishWord": "broke"
+      },
+      {
+        "rank": 655,
+        "targetWord": "\u05de\u05e7\u05e8\u05d4",
+        "englishWord": "case"
+      },
+      {
+        "rank": 656,
+        "targetWord": "\u05d0\u05de\u05e6\u05e2",
+        "englishWord": "middle"
+      },
+      {
+        "rank": 657,
+        "targetWord": "\u05dc\u05d4\u05e8\u05d5\u05d2",
+        "englishWord": "kill"
+      },
+      {
+        "rank": 658,
+        "targetWord": "\u05d1\u05df",
+        "englishWord": "son"
+      },
+      {
+        "rank": 659,
+        "targetWord": "\u05d0\u05d2\u05dd",
+        "englishWord": "lake"
+      },
+      {
+        "rank": 660,
+        "targetWord": "\u05e8\u05d2\u05e2",
+        "englishWord": "moment"
+      },
+      {
+        "rank": 661,
+        "targetWord": "\u05d1\u05e7\u05e0\u05d4 \u05de\u05d9\u05d3\u05d4",
+        "englishWord": "scale"
+      },
+      {
+        "rank": 662,
+        "targetWord": "\u05e8\u05dd",
+        "englishWord": "loud"
+      },
+      {
+        "rank": 663,
+        "targetWord": "\u05d4\u05d0\u05d1\u05d9\u05d1",
+        "englishWord": "spring"
+      },
+      {
+        "rank": 664,
+        "targetWord": "\u05dc\u05d4\u05ea\u05d1\u05d5\u05e0\u05df",
+        "englishWord": "observe"
+      },
+      {
+        "rank": 665,
+        "targetWord": "\u05d9\u05dc\u05d3",
+        "englishWord": "child"
+      },
+      {
+        "rank": 666,
+        "targetWord": "\u05d9\u05e9\u05e8",
+        "englishWord": "straight"
+      },
+      {
+        "rank": 667,
+        "targetWord": "\u05e2\u05d9\u05e6\u05d5\u05e8",
+        "englishWord": "consonant"
+      },
+      {
+        "rank": 668,
+        "targetWord": "\u05d0\u05d5\u05de\u05d4",
+        "englishWord": "nation"
+      },
+      {
+        "rank": 669,
+        "targetWord": "\u05de\u05d9\u05dc\u05d5\u05df",
+        "englishWord": "dictionary"
+      },
+      {
+        "rank": 670,
+        "targetWord": "\u05d7\u05dc\u05d1",
+        "englishWord": "milk"
+      },
+      {
+        "rank": 671,
+        "targetWord": "\u05de\u05d4\u05d9\u05e8\u05d5\u05ea",
+        "englishWord": "speed"
+      },
+      {
+        "rank": 672,
+        "targetWord": "\u05e9\u05d9\u05d8\u05d4",
+        "englishWord": "method"
+      },
+      {
+        "rank": 673,
+        "targetWord": "\u05d0\u05d9\u05d1\u05e8",
+        "englishWord": "organ"
+      },
+      {
+        "rank": 674,
+        "targetWord": "\u05dc\u05e9\u05dc\u05dd",
+        "englishWord": "pay"
+      },
+      {
+        "rank": 675,
+        "targetWord": "\u05d2\u05d9\u05dc",
+        "englishWord": "age"
+      },
+      {
+        "rank": 676,
+        "targetWord": "\u05e1\u05e2\u05d9\u05e3",
+        "englishWord": "section"
+      },
+      {
+        "rank": 677,
+        "targetWord": "\u05e9\u05de\u05dc\u05d4",
+        "englishWord": "dress"
+      },
+      {
+        "rank": 678,
+        "targetWord": "\u05e2\u05e0\u05df",
+        "englishWord": "cloud"
+      },
+      {
+        "rank": 679,
+        "targetWord": "\u05d4\u05e4\u05ea\u05e2\u05d4",
+        "englishWord": "surprise"
+      },
+      {
+        "rank": 680,
+        "targetWord": "\u05e9\u05e7\u05d8",
+        "englishWord": "quiet"
+      },
+      {
+        "rank": 681,
+        "targetWord": "\u05d0\u05d1\u05df",
+        "englishWord": "stone"
+      },
+      {
+        "rank": 682,
+        "targetWord": "\u05d6\u05e2\u05d9\u05e8",
+        "englishWord": "tiny"
+      },
+      {
+        "rank": 683,
+        "targetWord": "\u05d8\u05d9\u05e4\u05d5\u05e1",
+        "englishWord": "climb"
+      },
+      {
+        "rank": 684,
+        "targetWord": "\u05de\u05d2\u05e0\u05d9\u05d1",
+        "englishWord": "cool"
+      },
+      {
+        "rank": 685,
+        "targetWord": "\u05dc\u05e2\u05e6\u05d1",
+        "englishWord": "design"
+      },
+      {
+        "rank": 686,
+        "targetWord": "\u05e2\u05e0\u05d9",
+        "englishWord": "poor"
+      },
+      {
+        "rank": 687,
+        "targetWord": "\u05de\u05d2\u05e8\u05e9",
+        "englishWord": "lot"
+      },
+      {
+        "rank": 688,
+        "targetWord": "\u05e0\u05d9\u05e1\u05d9\u05d5\u05df",
+        "englishWord": "experiment"
+      },
+      {
+        "rank": 689,
+        "targetWord": "\u05ea\u05d7\u05ea\u05d5\u05df",
+        "englishWord": "bottom"
+      },
+      {
+        "rank": 690,
+        "targetWord": "\u05de\u05e4\u05ea\u05d7",
+        "englishWord": "key"
+      },
+      {
+        "rank": 691,
+        "targetWord": "\u05d1\u05e8\u05d6\u05dc",
+        "englishWord": "iron"
+      },
+      {
+        "rank": 692,
+        "targetWord": "\u05d0\u05d7\u05ea",
+        "englishWord": "single"
+      },
+      {
+        "rank": 693,
+        "targetWord": "\u05de\u05e7\u05dc",
+        "englishWord": "stick"
+      },
+      {
+        "rank": 694,
+        "targetWord": "\u05d3\u05d9\u05e8\u05d4",
+        "englishWord": "flat"
+      },
+      {
+        "rank": 695,
+        "targetWord": "\u05e2\u05e9\u05e8\u05d9\u05dd",
+        "englishWord": "twenty"
+      },
+      {
+        "rank": 696,
+        "targetWord": "\u05e2\u05d5\u05e8",
+        "englishWord": "skin"
+      },
+      {
+        "rank": 697,
+        "targetWord": "\u05d7\u05d9\u05d5\u05da",
+        "englishWord": "smile"
+      },
+      {
+        "rank": 698,
+        "targetWord": "\u05e7\u05de\u05d8",
+        "englishWord": "crease"
+      },
+      {
+        "rank": 699,
+        "targetWord": "\u05d7\u05d5\u05e8",
+        "englishWord": "hole"
+      },
+      {
+        "rank": 700,
+        "targetWord": "\u05dc\u05e7\u05e4\u05d5\u05e5",
+        "englishWord": "jump"
+      },
+      {
+        "rank": 701,
+        "targetWord": "\u05ea\u05d9\u05e0\u05d5\u05e7",
+        "englishWord": "baby"
+      },
+      {
+        "rank": 702,
+        "targetWord": "\u05e9\u05de\u05d5\u05e0\u05d4",
+        "englishWord": "eight"
+      },
+      {
+        "rank": 703,
+        "targetWord": "\u05db\u05e4\u05e8",
+        "englishWord": "village"
+      },
+      {
+        "rank": 704,
+        "targetWord": "\u05e0\u05e4\u05d2\u05e9",
+        "englishWord": "meet"
+      },
+      {
+        "rank": 705,
+        "targetWord": "\u05e9\u05d5\u05e8\u05e9",
+        "englishWord": "root"
+      },
+      {
+        "rank": 706,
+        "targetWord": "\u05dc\u05e7\u05e0\u05d5\u05ea",
+        "englishWord": "buy"
+      },
+      {
+        "rank": 707,
+        "targetWord": "\u05dc\u05d4\u05e2\u05dc\u05d5\u05ea",
+        "englishWord": "raise"
+      },
+      {
+        "rank": 708,
+        "targetWord": "\u05dc\u05e4\u05ea\u05d5\u05e8",
+        "englishWord": "solve"
+      },
+      {
+        "rank": 709,
+        "targetWord": "\u05de\u05ea\u05db\u05ea",
+        "englishWord": "metal"
+      },
+      {
+        "rank": 710,
+        "targetWord": "\u05d0\u05dd",
+        "englishWord": "whether"
+      },
+      {
+        "rank": 711,
+        "targetWord": "\u05d3\u05d7\u05d9\u05e4\u05d4",
+        "englishWord": "push"
+      },
+      {
+        "rank": 712,
+        "targetWord": "\u05e9\u05d1\u05e2",
+        "englishWord": "seven"
+      },
+      {
+        "rank": 713,
+        "targetWord": "\u05e1\u05e2\u05d9\u05e3",
+        "englishWord": "paragraph"
+      },
+      {
+        "rank": 714,
+        "targetWord": "\u05e9\u05dc\u05d9\u05e9\u05d9",
+        "englishWord": "third"
+      },
+      {
+        "rank": 715,
+        "targetWord": "\u05ea\u05d4\u05d0",
+        "englishWord": "shall"
+      },
+      {
+        "rank": 716,
+        "targetWord": "\u05de\u05d5\u05d7\u05d6\u05e7",
+        "englishWord": "held"
+      },
+      {
+        "rank": 717,
+        "targetWord": "\u05e9\u05d9\u05e2\u05e8",
+        "englishWord": "hair"
+      },
+      {
+        "rank": 718,
+        "targetWord": "\u05dc\u05ea\u05d0\u05e8",
+        "englishWord": "describe"
+      },
+      {
+        "rank": 719,
+        "targetWord": "\u05d8\u05d1\u05d7",
+        "englishWord": "cook"
+      },
+      {
+        "rank": 720,
+        "targetWord": "\u05e8\u05e6\u05e4\u05d4",
+        "englishWord": "floor"
+      },
+      {
+        "rank": 721,
+        "targetWord": "\u05d0\u05d5",
+        "englishWord": "either"
+      },
+      {
+        "rank": 722,
+        "targetWord": "\u05ea\u05d5\u05e6\u05d0\u05d4",
+        "englishWord": "result"
+      },
+      {
+        "rank": 723,
+        "targetWord": "\u05dc\u05e9\u05e8\u05d5\u05e3",
+        "englishWord": "burn"
+      },
+      {
+        "rank": 724,
+        "targetWord": "\u05d2\u05d1\u05e2\u05d4",
+        "englishWord": "hill"
+      },
+      {
+        "rank": 725,
+        "targetWord": "\u05d1\u05d8\u05d5\u05d7",
+        "englishWord": "safe"
+      },
+      {
+        "rank": 726,
+        "targetWord": "\u05d7\u05ea\u05d5\u05dc",
+        "englishWord": "cat"
+      },
+      {
+        "rank": 727,
+        "targetWord": "\u05d4\u05de\u05d0\u05d4",
+        "englishWord": "century"
+      },
+      {
+        "rank": 728,
+        "targetWord": "\u05dc\u05e9\u05e7\u05d5\u05dc",
+        "englishWord": "consider"
+      },
+      {
+        "rank": 729,
+        "targetWord": "\u05e1\u05d5\u05d2",
+        "englishWord": "type"
+      },
+      {
+        "rank": 730,
+        "targetWord": "\u05d4\u05d7\u05d5\u05e7",
+        "englishWord": "law"
+      },
+      {
+        "rank": 731,
+        "targetWord": "\u05e7\u05e6\u05ea",
+        "englishWord": "bit"
+      },
+      {
+        "rank": 732,
+        "targetWord": "\u05d4\u05d7\u05d5\u05e3",
+        "englishWord": "coast"
+      },
+      {
+        "rank": 733,
+        "targetWord": "\u05e2\u05d5\u05ea\u05e7",
+        "englishWord": "copy"
+      },
+      {
+        "rank": 734,
+        "targetWord": "\u05d1\u05d9\u05d8\u05d5\u05d9",
+        "englishWord": "phrase"
+      },
+      {
+        "rank": 735,
+        "targetWord": "\u05e9\u05e7\u05d8",
+        "englishWord": "silent"
+      },
+      {
+        "rank": 736,
+        "targetWord": "\u05d2\u05d1\u05d5\u05d4",
+        "englishWord": "tall"
+      },
+      {
+        "rank": 737,
+        "targetWord": "\u05d7\u05d5\u05dc",
+        "englishWord": "sand"
+      },
+      {
+        "rank": 738,
+        "targetWord": "\u05d0\u05d3\u05de\u05d4",
+        "englishWord": "soil"
+      },
+      {
+        "rank": 739,
+        "targetWord": "\u05d2\u05dc\u05d9\u05dc",
+        "englishWord": "roll"
+      },
+      {
+        "rank": 740,
+        "targetWord": "\u05d8\u05de\u05e4\u05e8\u05d8\u05d5\u05e8\u05d4",
+        "englishWord": "temperature"
+      },
+      {
+        "rank": 741,
+        "targetWord": "\u05d0\u05e6\u05d1\u05e2",
+        "englishWord": "finger"
+      },
+      {
+        "rank": 742,
+        "targetWord": "\u05ea\u05e2\u05e9\u05d9\u05d9\u05d4",
+        "englishWord": "industry"
+      },
+      {
+        "rank": 743,
+        "targetWord": "\u05e2\u05e8\u05da",
+        "englishWord": "value"
+      },
+      {
+        "rank": 744,
+        "targetWord": "\u05de\u05d0\u05d1\u05e7",
+        "englishWord": "fight"
+      },
+      {
+        "rank": 745,
+        "targetWord": "\u05e9\u05e7\u05e8",
+        "englishWord": "lie"
+      },
+      {
+        "rank": 746,
+        "targetWord": "\u05d4\u05db\u05d4",
+        "englishWord": "beat"
+      },
+      {
+        "rank": 747,
+        "targetWord": "\u05dc\u05e8\u05d2\u05e9",
+        "englishWord": "excite"
+      },
+      {
+        "rank": 748,
+        "targetWord": "\u05d8\u05d1\u05e2\u05d9",
+        "englishWord": "natural"
+      },
+      {
+        "rank": 749,
+        "targetWord": "\u05ea\u05e6\u05d5\u05d2\u05d4",
+        "englishWord": "view"
+      },
+      {
+        "rank": 750,
+        "targetWord": "\u05ea\u05d7\u05d5\u05e9\u05d4",
+        "englishWord": "sense"
+      },
+      {
+        "rank": 751,
+        "targetWord": "\u05d4\u05d5\u05df",
+        "englishWord": "capital"
+      },
+      {
+        "rank": 752,
+        "targetWord": "\u05dc\u05d0 \u05d9\u05d4\u05d9\u05d4",
+        "englishWord": "won\u2019t"
+      },
+      {
+        "rank": 753,
+        "targetWord": "\u05db\u05d9\u05e1\u05d0",
+        "englishWord": "chair"
+      },
+      {
+        "rank": 754,
+        "targetWord": "\u05e1\u05db\u05e0\u05d4",
+        "englishWord": "danger"
+      },
+      {
+        "rank": 755,
+        "targetWord": "\u05e4\u05d9\u05e8\u05d5\u05ea",
+        "englishWord": "fruit"
+      },
+      {
+        "rank": 756,
+        "targetWord": "\u05e2\u05e9\u05d9\u05e8",
+        "englishWord": "rich"
+      },
+      {
+        "rank": 757,
+        "targetWord": "\u05e2\u05d1\u05d4",
+        "englishWord": "thick"
+      },
+      {
+        "rank": 758,
+        "targetWord": "\u05d7\u05d9\u05dc",
+        "englishWord": "soldier"
+      },
+      {
+        "rank": 759,
+        "targetWord": "\u05ea\u05d4\u05dc\u05d9\u05da",
+        "englishWord": "process"
+      },
+      {
+        "rank": 760,
+        "targetWord": "\u05e4\u05d5\u05e2\u05dc",
+        "englishWord": "operate"
+      },
+      {
+        "rank": 761,
+        "targetWord": "\u05d1\u05e4\u05d5\u05e2\u05dc",
+        "englishWord": "practice"
+      },
+      {
+        "rank": 762,
+        "targetWord": "\u05e0\u05e4\u05e8\u05d3",
+        "englishWord": "separate"
+      },
+      {
+        "rank": 763,
+        "targetWord": "\u05e7\u05e9\u05d4",
+        "englishWord": "difficult"
+      },
+      {
+        "rank": 764,
+        "targetWord": "\u05e8\u05d5\u05e4\u05d0",
+        "englishWord": "doctor"
+      },
+      {
+        "rank": 765,
+        "targetWord": "\u05d1\u05d1\u05e7\u05e9\u05d4",
+        "englishWord": "please"
+      },
+      {
+        "rank": 766,
+        "targetWord": "\u05dc\u05d4\u05d2\u05df \u05e2\u05dc",
+        "englishWord": "protect"
+      },
+      {
+        "rank": 767,
+        "targetWord": "\u05d4\u05e6\u05d4\u05e8\u05d9\u05d9\u05dd",
+        "englishWord": "noon"
+      },
+      {
+        "rank": 768,
+        "targetWord": "\u05d9\u05d1\u05d5\u05dc",
+        "englishWord": "crop"
+      },
+      {
+        "rank": 769,
+        "targetWord": "\u05de\u05d5\u05d3\u05e8\u05e0\u05d9",
+        "englishWord": "modern"
+      },
+      {
+        "rank": 770,
+        "targetWord": "\u05d0\u05dc\u05de\u05e0\u05d8",
+        "englishWord": "element"
+      },
+      {
+        "rank": 771,
+        "targetWord": "\u05e4\u05d2\u05e2",
+        "englishWord": "hit"
+      },
+      {
+        "rank": 772,
+        "targetWord": "\u05e1\u05d8\u05d5\u05d3\u05e0\u05d8",
+        "englishWord": "student"
+      },
+      {
+        "rank": 773,
+        "targetWord": "\u05e4\u05d9\u05e0\u05d4",
+        "englishWord": "corner"
+      },
+      {
+        "rank": 774,
+        "targetWord": "\u05de\u05e4\u05dc\u05d2\u05d4",
+        "englishWord": "party"
+      },
+      {
+        "rank": 775,
+        "targetWord": "\u05d0\u05e1\u05e4\u05e7\u05d4",
+        "englishWord": "supply"
+      },
+      {
+        "rank": 776,
+        "targetWord": "\u05e9\u05dc \u05de\u05d9",
+        "englishWord": "whose"
+      },
+      {
+        "rank": 777,
+        "targetWord": "\u05d0\u05ea\u05e8",
+        "englishWord": "locate"
+      },
+      {
+        "rank": 778,
+        "targetWord": "\u05d8\u05d1\u05e2\u05ea",
+        "englishWord": "ring"
+      },
+      {
+        "rank": 779,
+        "targetWord": "\u05d0\u05d5\u05e4\u05d9",
+        "englishWord": "character"
+      },
+      {
+        "rank": 780,
+        "targetWord": "\u05d7\u05e8\u05e7\u05d9\u05dd",
+        "englishWord": "insect"
+      },
+      {
+        "rank": 781,
+        "targetWord": "\u05e0\u05ea\u05e4\u05e1",
+        "englishWord": "caught"
+      },
+      {
+        "rank": 782,
+        "targetWord": "\u05d4\u05ea\u05e7\u05d5\u05e4\u05d4",
+        "englishWord": "period"
+      },
+      {
+        "rank": 783,
+        "targetWord": "\u05de\u05e6\u05d1\u05d9\u05e2 \u05e2\u05dc",
+        "englishWord": "indicate"
+      },
+      {
+        "rank": 784,
+        "targetWord": "\u05e8\u05d3\u05d9\u05d5",
+        "englishWord": "radio"
+      },
+      {
+        "rank": 785,
+        "targetWord": "\u05d3\u05d9\u05d1\u05e8\u05ea\u05d9",
+        "englishWord": "spoke"
+      },
+      {
+        "rank": 786,
+        "targetWord": "\u05d0\u05d8\u05d5\u05dd",
+        "englishWord": "atom"
+      },
+      {
+        "rank": 787,
+        "targetWord": "\u05d0\u05d3\u05dd",
+        "englishWord": "human"
+      },
+      {
+        "rank": 788,
+        "targetWord": "\u05d4\u05d9\u05e1\u05d8\u05d5\u05e8\u05d9\u05d4",
+        "englishWord": "history"
+      },
+      {
+        "rank": 789,
+        "targetWord": "\u05d4\u05e9\u05e4\u05e2\u05d4",
+        "englishWord": "effect"
+      },
+      {
+        "rank": 790,
+        "targetWord": "\u05d7\u05e9\u05de\u05dc\u05d9",
+        "englishWord": "electric"
+      },
+      {
+        "rank": 791,
+        "targetWord": "\u05de\u05e6\u05e4\u05d4",
+        "englishWord": "expect"
+      },
+      {
+        "rank": 792,
+        "targetWord": "\u05e2\u05e6\u05dd",
+        "englishWord": "bone"
+      },
+      {
+        "rank": 793,
+        "targetWord": "\u05e8\u05db\u05d1\u05ea",
+        "englishWord": "rail"
+      },
+      {
+        "rank": 794,
+        "targetWord": "\u05dc\u05d4\u05e0\u05d9\u05d7",
+        "englishWord": "imagine"
+      },
+      {
+        "rank": 795,
+        "targetWord": "\u05dc\u05e1\u05e4\u05e7",
+        "englishWord": "provide"
+      },
+      {
+        "rank": 796,
+        "targetWord": "\u05de\u05e1\u05db\u05d9\u05dd",
+        "englishWord": "agree"
+      },
+      {
+        "rank": 797,
+        "targetWord": "\u05db\u05da",
+        "englishWord": "thus"
+      },
+      {
+        "rank": 798,
+        "targetWord": "\u05e2\u05d3\u05d9\u05df",
+        "englishWord": "gentle"
+      },
+      {
+        "rank": 799,
+        "targetWord": "\u05d0\u05d9\u05e9\u05d4",
+        "englishWord": "woman"
+      },
+      {
+        "rank": 800,
+        "targetWord": "\u05e7\u05e4\u05d8\u05df",
+        "englishWord": "captain"
+      },
+      {
+        "rank": 801,
+        "targetWord": "\u05de\u05e0\u05d9\u05d7",
+        "englishWord": "guess"
+      },
+      {
+        "rank": 802,
+        "targetWord": "\u05d4\u05db\u05e8\u05d7\u05d9",
+        "englishWord": "necessary"
+      },
+      {
+        "rank": 803,
+        "targetWord": "\u05d7\u05d3",
+        "englishWord": "sharp"
+      },
+      {
+        "rank": 804,
+        "targetWord": "\u05db\u05e0\u05e3",
+        "englishWord": "wing"
+      },
+      {
+        "rank": 805,
+        "targetWord": "\u05dc\u05d9\u05e6\u05d5\u05e8",
+        "englishWord": "create"
+      },
+      {
+        "rank": 806,
+        "targetWord": "\u05d4\u05e9\u05db\u05df",
+        "englishWord": "neighbor"
+      },
+      {
+        "rank": 807,
+        "targetWord": "\u05dc\u05e9\u05d8\u05d5\u05e3",
+        "englishWord": "wash"
+      },
+      {
+        "rank": 808,
+        "targetWord": "\u05e2\u05d8\u05dc\u05e3",
+        "englishWord": "bat"
+      },
+      {
+        "rank": 809,
+        "targetWord": "\u05d5\u05dc\u05d0",
+        "englishWord": "rather"
+      },
+      {
+        "rank": 810,
+        "targetWord": "\u05e7\u05d4\u05dc",
+        "englishWord": "crowd"
+      },
+      {
+        "rank": 811,
+        "targetWord": "\u05ea\u05d9\u05e8\u05e1",
+        "englishWord": "corn"
+      },
+      {
+        "rank": 812,
+        "targetWord": "\u05dc\u05d4\u05e9\u05d5\u05d5\u05ea",
+        "englishWord": "compare"
+      },
+      {
+        "rank": 813,
+        "targetWord": "\u05e9\u05d9\u05e8",
+        "englishWord": "poem"
+      },
+      {
+        "rank": 814,
+        "targetWord": "\u05de\u05d7\u05e8\u05d5\u05d6\u05ea",
+        "englishWord": "string"
+      },
+      {
+        "rank": 815,
+        "targetWord": "\u05e4\u05e2\u05de\u05d5\u05df",
+        "englishWord": "bell"
+      },
+      {
+        "rank": 816,
+        "targetWord": "\u05ea\u05dc\u05d5\u05d9\u05d9\u05dd",
+        "englishWord": "depend"
+      },
+      {
+        "rank": 817,
+        "targetWord": "\u05d1\u05e9\u05e8",
+        "englishWord": "meat"
+      },
+      {
+        "rank": 818,
+        "targetWord": "\u05dc\u05e9\u05e4\u05e9\u05e3",
+        "englishWord": "rub"
+      },
+      {
+        "rank": 819,
+        "targetWord": "\u05e6\u05d9\u05e0\u05d5\u05e8",
+        "englishWord": "tube"
+      },
+      {
+        "rank": 820,
+        "targetWord": "\u05de\u05e4\u05d5\u05e8\u05e1\u05dd",
+        "englishWord": "famous"
+      },
+      {
+        "rank": 921,
+        "targetWord": "\u05d3\u05d5\u05dc\u05e8",
+        "englishWord": "dollar"
+      },
+      {
+        "rank": 822,
+        "targetWord": "\u05d6\u05e8\u05dd",
+        "englishWord": "stream"
+      },
+      {
+        "rank": 823,
+        "targetWord": "\u05e4\u05d7\u05d3",
+        "englishWord": "fear"
+      },
+      {
+        "rank": 284,
+        "targetWord": "\u05de\u05e8\u05d0\u05d4",
+        "englishWord": "sight"
+      },
+      {
+        "rank": 825,
+        "targetWord": "\u05d3\u05e7",
+        "englishWord": "thin"
+      },
+      {
+        "rank": 826,
+        "targetWord": "\u05de\u05e9\u05d5\u05dc\u05e9",
+        "englishWord": "triangle"
+      },
+      {
+        "rank": 827,
+        "targetWord": "\u05db\u05d3\u05d5\u05e8 \u05d4\u05d0\u05e8\u05e5",
+        "englishWord": "planet"
+      },
+      {
+        "rank": 828,
+        "targetWord": "\u05dc\u05de\u05d4\u05e8",
+        "englishWord": "hurry"
+      },
+      {
+        "rank": 829,
+        "targetWord": "\u05e8\u05d0\u05e9\u05d9",
+        "englishWord": "chief"
+      },
+      {
+        "rank": 830,
+        "targetWord": "\u05de\u05d5\u05e9\u05d1\u05d4",
+        "englishWord": "colony"
+      },
+      {
+        "rank": 831,
+        "targetWord": "\u05e9\u05e2\u05d5\u05df",
+        "englishWord": "clock"
+      },
+      {
+        "rank": 832,
+        "targetWord": "\u05e9\u05dc\u05d9",
+        "englishWord": "mine"
+      },
+      {
+        "rank": 833,
+        "targetWord": "\u05e2\u05e0\u05d9\u05d1\u05d4",
+        "englishWord": "tie"
+      },
+      {
+        "rank": 834,
+        "targetWord": "\u05dc\u05d4\u05d9\u05db\u05e0\u05e1",
+        "englishWord": "enter"
+      },
+      {
+        "rank": 835,
+        "targetWord": "\u05d2\u05d3\u05d5\u05dc",
+        "englishWord": "major"
+      },
+      {
+        "rank": 836,
+        "targetWord": "\u05d8\u05e8\u05d9",
+        "englishWord": "fresh"
+      },
+      {
+        "rank": 837,
+        "targetWord": "\u05d7\u05d9\u05e4\u05d5\u05e9",
+        "englishWord": "search"
+      },
+      {
+        "rank": 838,
+        "targetWord": "\u05dc\u05e9\u05dc\u05d5\u05d7",
+        "englishWord": "send"
+      },
+      {
+        "rank": 839,
+        "targetWord": "\u05e6\u05d4\u05d5\u05d1",
+        "englishWord": "yellow"
+      },
+      {
+        "rank": 840,
+        "targetWord": "\u05d0\u05e7\u05d3\u05d7",
+        "englishWord": "gun"
+      },
+      {
+        "rank": 841,
+        "targetWord": "\u05dc\u05d0\u05e4\u05e9\u05e8",
+        "englishWord": "allow"
+      },
+      {
+        "rank": 842,
+        "targetWord": "\u05d4\u05d3\u05e4\u05e1\u05d4",
+        "englishWord": "print"
+      },
+      {
+        "rank": 843,
+        "targetWord": "\u05de\u05ea",
+        "englishWord": "dead"
+      },
+      {
+        "rank": 844,
+        "targetWord": "\u05de\u05e7\u05d5\u05dd",
+        "englishWord": "spot"
+      },
+      {
+        "rank": 845,
+        "targetWord": "\u05de\u05d3\u05d1\u05e8",
+        "englishWord": "desert"
+      },
+      {
+        "rank": 846,
+        "targetWord": "\u05d7\u05dc\u05d9\u05e4\u05d4",
+        "englishWord": "suit"
+      },
+      {
+        "rank": 847,
+        "targetWord": "\u05e0\u05d5\u05db\u05d7\u05d9",
+        "englishWord": "current"
+      },
+      {
+        "rank": 848,
+        "targetWord": "\u05de\u05e2\u05dc\u05d9\u05ea",
+        "englishWord": "lift"
+      },
+      {
+        "rank": 840,
+        "targetWord": "\u05e2\u05dc\u05d4",
+        "englishWord": "rose"
+      },
+      {
+        "rank": 850,
+        "targetWord": "\u05dc\u05d4\u05d2\u05d9\u05e2",
+        "englishWord": "arrive"
+      },
+      {
+        "rank": 851,
+        "targetWord": "\u05d0\u05d3\u05d5\u05df",
+        "englishWord": "master"
+      },
+      {
+        "rank": 852,
+        "targetWord": "\u05de\u05e1\u05dc\u05d5\u05dc",
+        "englishWord": "track"
+      },
+      {
+        "rank": 853,
+        "targetWord": "\u05d4\u05d5\u05e8\u05d4",
+        "englishWord": "parent"
+      },
+      {
+        "rank": 854,
+        "targetWord": "\u05d4\u05d7\u05d5\u05e3",
+        "englishWord": "shore"
+      },
+      {
+        "rank": 855,
+        "targetWord": "\u05d4\u05d7\u05dc\u05d5\u05e7\u05d4",
+        "englishWord": "division"
+      },
+      {
+        "rank": 856,
+        "targetWord": "\u05d2\u05d9\u05dc\u05d9\u05d5\u05df",
+        "englishWord": "sheet"
+      },
+      {
+        "rank": 857,
+        "targetWord": "\u05d7\u05d5\u05de\u05e8",
+        "englishWord": "substance"
+      },
+      {
+        "rank": 858,
+        "targetWord": "\u05dc\u05d4\u05e2\u05d3\u05d9\u05e3",
+        "englishWord": "favor"
+      },
+      {
+        "rank": 859,
+        "targetWord": "\u05dc\u05d4\u05ea\u05d7\u05d1\u05e8",
+        "englishWord": "connect"
+      },
+      {
+        "rank": 860,
+        "targetWord": "\u05e9\u05dc\u05d0\u05d7\u05e8",
+        "englishWord": "post"
+      },
+      {
+        "rank": 861,
+        "targetWord": "\u05dc\u05d1\u05dc\u05d5\u05ea",
+        "englishWord": "spend"
+      },
+      {
+        "rank": 862,
+        "targetWord": "\u05d0\u05e7\u05d5\u05e8\u05d3",
+        "englishWord": "chord"
+      },
+      {
+        "rank": 863,
+        "targetWord": "\u05e9\u05d5\u05de\u05df",
+        "englishWord": "fat"
+      },
+      {
+        "rank": 864,
+        "targetWord": "\u05e9\u05de\u05d7",
+        "englishWord": "glad"
+      },
+      {
+        "rank": 865,
+        "targetWord": "\u05de\u05e7\u05d5\u05e8\u05d9",
+        "englishWord": "original"
+      },
+      {
+        "rank": 866,
+        "targetWord": "\u05de\u05e0\u05d9\u05d4",
+        "englishWord": "share"
+      },
+      {
+        "rank": 867,
+        "targetWord": "\u05ea\u05d7\u05e0\u05d4",
+        "englishWord": "station"
+      },
+      {
+        "rank": 868,
+        "targetWord": "\u05d0\u05d1\u05d0",
+        "englishWord": "dad"
+      },
+      {
+        "rank": 869,
+        "targetWord": "\u05dc\u05d7\u05dd",
+        "englishWord": "bread"
+      },
+      {
+        "rank": 870,
+        "targetWord": "\u05dc\u05d7\u05d9\u05d9\u05d1 \u05d0\u05ea",
+        "englishWord": "charge"
+      },
+      {
+        "rank": 871,
+        "targetWord": "\u05e8\u05d0\u05d5\u05d9",
+        "englishWord": "proper"
+      },
+      {
+        "rank": 872,
+        "targetWord": "\u05d1\u05e8",
+        "englishWord": "bar"
+      },
+      {
+        "rank": 873,
+        "targetWord": "\u05d4\u05e6\u05e2\u05d4",
+        "englishWord": "offer"
+      },
+      {
+        "rank": 874,
+        "targetWord": "\u05e7\u05d8\u05e2",
+        "englishWord": "segment"
+      },
+      {
+        "rank": 875,
+        "targetWord": "\u05e2\u05d1\u05d3\u05d9\u05dd",
+        "englishWord": "slave"
+      },
+      {
+        "rank": 876,
+        "targetWord": "\u05d1\u05e8\u05d5\u05d5\u05d6",
+        "englishWord": "duck"
+      },
+      {
+        "rank": 877,
+        "targetWord": "\u05de\u05d9\u05d9\u05d3\u05d9",
+        "englishWord": "instant"
+      },
+      {
+        "rank": 878,
+        "targetWord": "\u05e9\u05d5\u05e7",
+        "englishWord": "market"
+      },
+      {
+        "rank": 879,
+        "targetWord": "\u05ea\u05d5\u05d0\u05e8",
+        "englishWord": "degree"
+      },
+      {
+        "rank": 880,
+        "targetWord": "\u05dc\u05d0\u05db\u05dc\u05e1",
+        "englishWord": "populate"
+      },
+      {
+        "rank": 881,
+        "targetWord": "\u05d7\u05d5\u05de\u05d5\u05e1",
+        "englishWord": "chick"
+      },
+      {
+        "rank": 882,
+        "targetWord": "\u05d9\u05e7\u05e8",
+        "englishWord": "dear"
+      },
+      {
+        "rank": 883,
+        "targetWord": "\u05d0\u05d5\u05d9\u05d1",
+        "englishWord": "enemy"
+      },
+      {
+        "rank": 884,
+        "targetWord": "\u05dc\u05d4\u05d2\u05d9\u05d1",
+        "englishWord": "reply"
+      },
+      {
+        "rank": 885,
+        "targetWord": "\u05de\u05e9\u05e7\u05d4",
+        "englishWord": "drink"
+      },
+      {
+        "rank": 886,
+        "targetWord": "\u05dc\u05d4\u05ea\u05e8\u05d7\u05e9",
+        "englishWord": "occur"
+      },
+      {
+        "rank": 887,
+        "targetWord": "\u05ea\u05de\u05d9\u05db\u05d4",
+        "englishWord": "support"
+      },
+      {
+        "rank": 888,
+        "targetWord": "\u05e0\u05d0\u05d5\u05dd",
+        "englishWord": "speech"
+      },
+      {
+        "rank": 889,
+        "targetWord": "\u05d8\u05d1\u05e2",
+        "englishWord": "nature"
+      },
+      {
+        "rank": 890,
+        "targetWord": "\u05d8\u05d5\u05d5\u05d7",
+        "englishWord": "range"
+      },
+      {
+        "rank": 891,
+        "targetWord": "\u05e7\u05d9\u05d8\u05d5\u05e8",
+        "englishWord": "steam"
+      },
+      {
+        "rank": 892,
+        "targetWord": "\u05ea\u05e0\u05d5\u05e2\u05d4",
+        "englishWord": "motion"
+      },
+      {
+        "rank": 893,
+        "targetWord": "\u05e0\u05ea\u05d9\u05d1",
+        "englishWord": "path"
+      },
+      {
+        "rank": 894,
+        "targetWord": "\u05e0\u05d5\u05d6\u05dc",
+        "englishWord": "liquid"
+      },
+      {
+        "rank": 895,
+        "targetWord": "\u05dc\u05d4\u05d9\u05db\u05e0\u05e1",
+        "englishWord": "log"
+      },
+      {
+        "rank": 896,
+        "targetWord": "\u05d4\u05ea\u05db\u05d5\u05d5\u05df",
+        "englishWord": "meant"
+      },
+      {
+        "rank": 897,
+        "targetWord": "\u05de\u05e0\u05d4",
+        "englishWord": "quotient"
+      },
+      {
+        "rank": 898,
+        "targetWord": "\u05e9\u05d9\u05e0\u05d9\u05d9\u05dd",
+        "englishWord": "teeth"
+      },
+      {
+        "rank": 899,
+        "targetWord": "\u05e4\u05d2\u05d6",
+        "englishWord": "shell"
+      },
+      {
+        "rank": 900,
+        "targetWord": "\u05e6\u05d5\u05d5\u05d0\u05e8",
+        "englishWord": "neck"
+      },
+      {
+        "rank": 901,
+        "targetWord": "\u05d7\u05de\u05e6\u05df",
+        "englishWord": "oxygen"
+      },
+      {
+        "rank": 902,
+        "targetWord": "\u05e1\u05d5\u05db\u05e8",
+        "englishWord": "sugar"
+      },
+      {
+        "rank": 903,
+        "targetWord": "\u05de\u05d5\u05d5\u05ea",
+        "englishWord": "death"
+      },
+      {
+        "rank": 904,
+        "targetWord": "\u05d3\u05d9",
+        "englishWord": "pretty"
+      },
+      {
+        "rank": 905,
+        "targetWord": "\u05de\u05d9\u05d5\u05de\u05e0\u05d5\u05ea",
+        "englishWord": "skill"
+      },
+      {
+        "rank": 906,
+        "targetWord": "\u05e0\u05e9\u05d9\u05dd",
+        "englishWord": "women"
+      },
+      {
+        "rank": 907,
+        "targetWord": "\u05e2\u05d5\u05e0\u05d4",
+        "englishWord": "season"
+      },
+      {
+        "rank": 908,
+        "targetWord": "\u05e4\u05ea\u05e8\u05d5\u05df",
+        "englishWord": "solution"
+      },
+      {
+        "rank": 909,
+        "targetWord": "\u05de\u05d2\u05e0\u05d8",
+        "englishWord": "magnet"
+      },
+      {
+        "rank": 910,
+        "targetWord": "\u05db\u05e1\u05e3",
+        "englishWord": "silver"
+      },
+      {
+        "rank": 911,
+        "targetWord": "\u05ea\u05d5\u05d3\u05d4",
+        "englishWord": "thank"
+      },
+      {
+        "rank": 912,
+        "targetWord": "\u05e1\u05e0\u05d9\u05e3",
+        "englishWord": "branch"
+      },
+      {
+        "rank": 913,
+        "targetWord": "\u05de\u05e9\u05d7\u05e7",
+        "englishWord": "match"
+      },
+      {
+        "rank": 914,
+        "targetWord": "\u05e1\u05d9\u05d5\u05de\u05ea",
+        "englishWord": "suffix"
+      },
+      {
+        "rank": 915,
+        "targetWord": "\u05d1\u05de\u05d9\u05d5\u05d7\u05d3",
+        "englishWord": "especially"
+      },
+      {
+        "rank": 916,
+        "targetWord": "\u05ea\u05d0\u05e0\u05d4",
+        "englishWord": "fig"
+      },
+      {
+        "rank": 917,
+        "targetWord": "\u05d7\u05d5\u05e9\u05e9",
+        "englishWord": "afraid"
+      },
+      {
+        "rank": 918,
+        "targetWord": "\u05e2\u05e0\u05e7",
+        "englishWord": "huge"
+      },
+      {
+        "rank": 919,
+        "targetWord": "\u05d0\u05d7\u05d5\u05ea",
+        "englishWord": "sister"
+      },
+      {
+        "rank": 920,
+        "targetWord": "\u05e4\u05dc\u05d3\u05d4",
+        "englishWord": "steel"
+      },
+      {
+        "rank": 921,
+        "targetWord": "\u05dc\u05d3\u05d5\u05df",
+        "englishWord": "discuss"
+      },
+      {
+        "rank": 922,
+        "targetWord": "\u05e7\u05d3\u05d9\u05de\u05d4",
+        "englishWord": "forward"
+      },
+      {
+        "rank": 923,
+        "targetWord": "\u05d3\u05d5\u05de\u05d4",
+        "englishWord": "similar"
+      },
+      {
+        "rank": 924,
+        "targetWord": "\u05dc\u05d4\u05e0\u05d7\u05d5\u05ea \u05d0\u05ea",
+        "englishWord": "guide"
+      },
+      {
+        "rank": 925,
+        "targetWord": "\u05e0\u05d9\u05e1\u05d9\u05d5\u05df",
+        "englishWord": "experience"
+      },
+      {
+        "rank": 926,
+        "targetWord": "\u05e6\u05d9\u05d5\u05df",
+        "englishWord": "score"
+      },
+      {
+        "rank": 927,
+        "targetWord": "\u05ea\u05e4\u05d5\u05d7",
+        "englishWord": "apple"
+      },
+      {
+        "rank": 928,
+        "targetWord": "\u05e7\u05e0\u05d9\u05ea\u05d9",
+        "englishWord": "bought"
+      },
+      {
+        "rank": 929,
+        "targetWord": "\u05d4\u05d5\u05d1\u05d9\u05dc",
+        "englishWord": "led"
+      },
+      {
+        "rank": 930,
+        "targetWord": "\u05d4\u05de\u05d2\u05e8\u05e9",
+        "englishWord": "pitch"
+      },
+      {
+        "rank": 931,
+        "targetWord": "\u05de\u05e2\u05d9\u05dc",
+        "englishWord": "coat"
+      },
+      {
+        "rank": 932,
+        "targetWord": "\u05de\u05e1\u05d4",
+        "englishWord": "mass"
+      },
+      {
+        "rank": 933,
+        "targetWord": "\u05db\u05e8\u05d8\u05d9\u05e1",
+        "englishWord": "card"
+      },
+      {
+        "rank": 934,
+        "targetWord": "\u05dc\u05d4\u05e7\u05d4",
+        "englishWord": "band"
+      },
+      {
+        "rank": 935,
+        "targetWord": "\u05d7\u05d1\u05dc",
+        "englishWord": "rope"
+      },
+      {
+        "rank": 936,
+        "targetWord": "\u05ea\u05dc\u05d5\u05e9",
+        "englishWord": "slip"
+      },
+      {
+        "rank": 937,
+        "targetWord": "\u05dc\u05e0\u05e6\u05d7",
+        "englishWord": "win"
+      },
+      {
+        "rank": 938,
+        "targetWord": "\u05dc\u05d7\u05dc\u05d5\u05dd",
+        "englishWord": "dream"
+      },
+      {
+        "rank": 939,
+        "targetWord": "\u05e2\u05e8\u05d1",
+        "englishWord": "evening"
+      },
+      {
+        "rank": 940,
+        "targetWord": "\u05de\u05e6\u05d1",
+        "englishWord": "condition"
+      },
+      {
+        "rank": 941,
+        "targetWord": "\u05d4\u05d6\u05e0\u05d4",
+        "englishWord": "feed"
+      },
+      {
+        "rank": 942,
+        "targetWord": "\u05db\u05dc\u05d9",
+        "englishWord": "tool"
+      },
+      {
+        "rank": 943,
+        "targetWord": "\u05e1\u05da \u05d4\u05db\u05dc",
+        "englishWord": "total"
+      },
+      {
+        "rank": 944,
+        "targetWord": "\u05d1\u05e1\u05d9\u05e1\u05d9",
+        "englishWord": "basic"
+      },
+      {
+        "rank": 945,
+        "targetWord": "\u05e8\u05d9\u05d7",
+        "englishWord": "smell"
+      },
+      {
+        "rank": 946,
+        "targetWord": "\u05e2\u05de\u05e7",
+        "englishWord": "valley"
+      },
+      {
+        "rank": 947,
+        "targetWord": "\u05d5\u05dc\u05d0",
+        "englishWord": "nor"
+      },
+      {
+        "rank": 948,
+        "targetWord": "\u05db\u05e4\u05d5\u05dc",
+        "englishWord": "double"
+      },
+      {
+        "rank": 949,
+        "targetWord": "\u05de\u05d5\u05e9\u05d1",
+        "englishWord": "seat"
+      },
+      {
+        "rank": 950,
+        "targetWord": "\u05dc\u05d4\u05de\u05e9\u05d9\u05da",
+        "englishWord": "continue"
+      },
+      {
+        "rank": 951,
+        "targetWord": "\u05d1\u05dc\u05d5\u05e7",
+        "englishWord": "block"
+      },
+      {
+        "rank": 952,
+        "targetWord": "\u05ea\u05e8\u05e9\u05d9\u05dd",
+        "englishWord": "chart"
+      },
+      {
+        "rank": 953,
+        "targetWord": "\u05db\u05d5\u05d1\u05e2",
+        "englishWord": "hat"
+      },
+      {
+        "rank": 954,
+        "targetWord": "\u05dc\u05de\u05db\u05d5\u05e8",
+        "englishWord": "sell"
+      },
+      {
+        "rank": 955,
+        "targetWord": "\u05d4\u05e6\u05dc\u05d7\u05d4",
+        "englishWord": "success"
+      },
+      {
+        "rank": 956,
+        "targetWord": "\u05d7\u05d1\u05e8\u05d4",
+        "englishWord": "company"
+      },
+      {
+        "rank": 957,
+        "targetWord": "\u05dc\u05d4\u05d7\u05e1\u05d9\u05e8",
+        "englishWord": "subtract"
+      },
+      {
+        "rank": 958,
+        "targetWord": "\u05d0\u05d9\u05e8\u05d5\u05e2",
+        "englishWord": "event"
+      },
+      {
+        "rank": 959,
+        "targetWord": "\u05d1\u05e4\u05e8\u05d8",
+        "englishWord": "particular"
+      },
+      {
+        "rank": 960,
+        "targetWord": "\u05e2\u05e1\u05e7\u05d4",
+        "englishWord": "deal"
+      },
+      {
+        "rank": 961,
+        "targetWord": "\u05dc\u05e9\u05d7\u05d5\u05ea",
+        "englishWord": "swim"
+      },
+      {
+        "rank": 962,
+        "targetWord": "\u05d8\u05d5\u05d5\u05d7",
+        "englishWord": "term"
+      },
+      {
+        "rank": 963,
+        "targetWord": "\u05d4\u05d4\u05e4\u05da",
+        "englishWord": "opposite"
+      },
+      {
+        "rank": 964,
+        "targetWord": "\u05d0\u05d9\u05e9\u05d4",
+        "englishWord": "wife"
+      },
+      {
+        "rank": 965,
+        "targetWord": "\u05e0\u05e2\u05dc",
+        "englishWord": "shoe"
+      },
+      {
+        "rank": 966,
+        "targetWord": "\u05db\u05ea\u05e3",
+        "englishWord": "shoulder"
+      },
+      {
+        "rank": 967,
+        "targetWord": "\u05d4\u05ea\u05e4\u05e9\u05d8\u05d5\u05ea",
+        "englishWord": "spread"
+      },
+      {
+        "rank": 968,
+        "targetWord": "\u05dc\u05e1\u05d3\u05e8",
+        "englishWord": "arrange"
+      },
+      {
+        "rank": 969,
+        "targetWord": "\u05de\u05d7\u05e0\u05d4",
+        "englishWord": "camp"
+      },
+      {
+        "rank": 970,
+        "targetWord": "\u05dc\u05d4\u05de\u05e6\u05d9\u05d0",
+        "englishWord": "invent"
+      },
+      {
+        "rank": 971,
+        "targetWord": "\u05db\u05d5\u05ea\u05e0\u05d4",
+        "englishWord": "cotton"
+      },
+      {
+        "rank": 972,
+        "targetWord": "\u05e0\u05d5\u05dc\u05d3",
+        "englishWord": "born"
+      },
+      {
+        "rank": 973,
+        "targetWord": "\u05dc\u05e7\u05d1\u05d5\u05e2",
+        "englishWord": "determine"
+      },
+      {
+        "rank": 974,
+        "targetWord": "\u05dc\u05d9\u05d8\u05e8",
+        "englishWord": "quart"
+      },
+      {
+        "rank": 975,
+        "targetWord": "\u05ea\u05e9\u05e2",
+        "englishWord": "nine"
+      },
+      {
+        "rank": 976,
+        "targetWord": "\u05de\u05e9\u05d0\u05d9\u05ea",
+        "englishWord": "truck"
+      },
+      {
+        "rank": 977,
+        "targetWord": "\u05e8\u05e2\u05e9",
+        "englishWord": "noise"
+      },
+      {
+        "rank": 978,
+        "targetWord": "\u05e8\u05de\u05d4",
+        "englishWord": "level"
+      },
+      {
+        "rank": 979,
+        "targetWord": "\u05e1\u05d9\u05db\u05d5\u05d9",
+        "englishWord": "chance"
+      },
+      {
+        "rank": 980,
+        "targetWord": "\u05dc\u05d0\u05e1\u05d5\u05e3",
+        "englishWord": "gather"
+      },
+      {
+        "rank": 981,
+        "targetWord": "\u05d7\u05e0\u05d5\u05ea",
+        "englishWord": "shop"
+      },
+      {
+        "rank": 982,
+        "targetWord": "\u05de\u05ea\u05d9\u05d7\u05d4",
+        "englishWord": "stretch"
+      },
+      {
+        "rank": 983,
+        "targetWord": "\u05dc\u05d6\u05e8\u05d5\u05e7",
+        "englishWord": "throw"
+      },
+      {
+        "rank": 984,
+        "targetWord": "\u05d1\u05e8\u05e7",
+        "englishWord": "shine"
+      },
+      {
+        "rank": 985,
+        "targetWord": "\u05e8\u05db\u05d5\u05e9",
+        "englishWord": "property"
+      },
+      {
+        "rank": 986,
+        "targetWord": "\u05d8\u05d5\u05e8",
+        "englishWord": "column"
+      },
+      {
+        "rank": 987,
+        "targetWord": "\u05de\u05d5\u05dc\u05e7\u05d5\u05dc\u05d4",
+        "englishWord": "molecule"
+      },
+      {
+        "rank": 988,
+        "targetWord": "\u05d1\u05d7\u05e8",
+        "englishWord": "select"
+      },
+      {
+        "rank": 989,
+        "targetWord": "\u05dc\u05d0 \u05e0\u05db\u05d5\u05df",
+        "englishWord": "wrong"
+      },
+      {
+        "rank": 990,
+        "targetWord": "\u05d0\u05e4\u05d5\u05e8",
+        "englishWord": "gray"
+      },
+      {
+        "rank": 991,
+        "targetWord": "\u05d7\u05d5\u05d6\u05e8",
+        "englishWord": "repeat"
+      },
+      {
+        "rank": 992,
+        "targetWord": "\u05d3\u05d5\u05e8\u05e9",
+        "englishWord": "require"
+      },
+      {
+        "rank": 993,
+        "targetWord": "\u05e8\u05d7\u05d1",
+        "englishWord": "broad"
+      },
+      {
+        "rank": 994,
+        "targetWord": "\u05dc\u05d4\u05db\u05d9\u05df",
+        "englishWord": "prepare"
+      },
+      {
+        "rank": 995,
+        "targetWord": "\u05de\u05dc\u05d7",
+        "englishWord": "salt"
+      },
+      {
+        "rank": 996,
+        "targetWord": "\u05d4\u05d0\u05e3",
+        "englishWord": "nose"
+      },
+      {
+        "rank": 997,
+        "targetWord": "\u05dc\u05e9\u05d5\u05df \u05e8\u05d1\u05d9\u05dd",
+        "englishWord": "plural"
+      },
+      {
+        "rank": 998,
+        "targetWord": "\u05db\u05e2\u05e1",
+        "englishWord": "anger"
+      },
+      {
+        "rank": 999,
+        "targetWord": "\u05d8\u05e2\u05e0\u05d4",
+        "englishWord": "claim"
+      },
+      {
+        "rank": 1000,
+        "targetWord": "\u05d9\u05d1\u05e9\u05ea",
+        "englishWord": "continent"
+      }
+    ]
+  }
+}
